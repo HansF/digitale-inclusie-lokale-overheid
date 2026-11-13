@@ -7,7 +7,7 @@ tags: [beleidsplan, actieplan, sjabloon]
 
 # Beleids- en actieplan digitale inclusie — sjabloon
 
-Dit sjabloon helpt je een **beleidsnota** en een **actieplan** te schrijven dat je kan verdedigen voor college, raad en partners. Het volgt de vier fasen van de Beleidstool en de vijf bouwsteencategorieën.
+Dit sjabloon helpt je een **beleidsnota** en een **actieplan** te schrijven dat je kan verdedigen voor college, raad en partners. Het volgt de vijf bouwsteencategorieën van de Beleidstool en de werkstappen die de skills in deze repo gebruiken: verkenning, selectie, plan en verankering. De officiële Beleidstool werkt in drie fasen — voorbereiding, oefening in groep, beleids- en actieplan; zie [kennis/04-beleid-en-regelgeving.md](../kennis/04-beleid-en-regelgeving.md).
 
 **Gebruik:** vervang de cursieve vragen door je eigen tekst. Laat lege velden niet staan: schrap ze of vul “niet van toepassing” in.
 

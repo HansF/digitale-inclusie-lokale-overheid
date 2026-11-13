@@ -95,6 +95,12 @@ De eerste vier beschrijven *wat* je kan realiseren. De vijfde beschrijft *hoe* j
 1. [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md)
 2. [kennis/12-organisaties-en-partners.md](./12-organisaties-en-partners.md)
 
+### “We willen onze dienstverlening herontwerpen.”
+
+1. [kennis/16-levensgebeurtenissen.md](./16-levensgebeurtenissen.md)
+2. [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md)
+3. [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md)
+
 ## 4. De belangrijkste definities in één minuut
 
 - **Digitale inclusie:** alle acties en oplossingen die nodig zijn zodat iedereen die dat wil volwaardig kan deelnemen aan de digitale samenleving.

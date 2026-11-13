@@ -50,7 +50,7 @@ sources:
   - resource: "https://www.imec.be/nl/kennisuitwisseling/techmeters/digimeter/imecdigimeter-2025"
   - resource: "https://kbs-frb.be/nl/barometer-digitale-inclusie-2026"
   - resource: "https://www.apenstaartjaren.be"
-  - resource: "https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf"
+  - resource: "https://researchportal.vub.be/en/publications/de-opkomst-van-digitale-inclusiebeleid-in-belgi%C3%AB-tussen-2020-en-2"
   - resource: "https://www.w3.org/TR/WCAG22/"
   - resource: "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
   - resource: "https://www.gegevensbeschermingsautoriteit.be"
@@ -66,6 +66,10 @@ sources:
   - resource: "https://kbs-frb.be"
   - resource: "https://www.inter.vlaanderen"
   - resource: "https://www.modem.be"
+  - resource: "https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/aanpak-levensgebeurtenissen/wat-houdt-de-aanpak-in"
+  - resource: "https://district09.gent/nl/city-deal"
+  - resource: "https://assets.vlaanderen.be/image/upload/v1736515027/repositories-prd/City_Deal_e-Inclusion_by_Design_-_Een_analyse_van_human_centered_design_experimenten_in_lokale_dienstverlening_qvoxbc.pdf"
+  - resource: "https://www.mediawijs.be/nl/e-inclusion-design-wat-dat"
 ---
 
 # 14 — Bronnen
@@ -147,7 +151,7 @@ Mediawijs is het Vlaams Kenniscentrum Digitale en Mediawijsheid. De kennisbank g
 | **Apenstaartjaren 2026** | Digitale kwetsbaarheid van kinderen en jongeren (6-18 jaar) | https://www.apenstaartjaren.be |
 | **Onderzoek Iedereen Digitaal** (2023-2025) | Beleidsaanbevelingen, profielen van digihelpers, inclusieve dienstverlening, ROI | https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal |
 | **Evaluatiestudie Digibanken** | Werking en impact van digibanken | https://www.vlaanderen.be/publicaties/evaluatiestudie-naar-de-werking-en-impact-van-digibanken |
-| **De opkomst van digitale inclusiebeleid in België 2020-2024** (VUB/UGent) | Historische analyse van het beleid | https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf |
+| **De opkomst van digitale inclusiebeleid in België 2020-2024** (VUB/UGent) | Historische analyse van het beleid | https://researchportal.vub.be/en/publications/de-opkomst-van-digitale-inclusiebeleid-in-belgi%C3%AB-tussen-2020-en-2 (pdf-link op assets.vlaanderen.be is offline; publicatiepagina bij VUB) |
 
 **Belangrijk bij cijfers:**
 
@@ -183,6 +187,18 @@ Mediawijs is het Vlaams Kenniscentrum Digitale en Mediawijsheid. De kennisbank g
 | **AnySurfer** | Toegankelijkheid | https://www.anysurfer.be |
 | **Inter** | Auditieve beperking | https://www.inter.vlaanderen |
 | **Modem** | Visuele beperking | https://www.modem.be |
+
+### Ontwerpmethoden en dienstverlening
+
+| Bron | Wat je eruit haalt | URL |
+| :--- | :--- | :--- |
+| **Aanpak Levensgebeurtenissen** (Nederlandse overheid) | Methode, selectiecriteria en klantreisonderzoek | https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/aanpak-levensgebeurtenissen/wat-houdt-de-aanpak-in |
+| **City Deal E-inclusion by Design** (District09) | Projectopzet, werkpakketten, deelnemende steden | https://district09.gent/nl/city-deal |
+| **City Deal — analyse van de HCD-experimenten** (imec-SMIT/VUB, december 2024) | Wat werkt als lokale besturen de eindgebruiker centraal zetten | https://assets.vlaanderen.be/image/upload/v1736515027/repositories-prd/City_Deal_e-Inclusion_by_Design_-_Een_analyse_van_human_centered_design_experimenten_in_lokale_dienstverlening_qvoxbc.pdf |
+| **Toolbox mensgericht ontwerpen** (Mediawijs) | Zes stappen met activiteiten en sjablonen | https://www.mediawijs.be/nl/toolbox-mensgericht-ontwerpen |
+| **E-inclusion by design in vier video's** (Mediawijs) | Introductie voor een team of college | https://www.mediawijs.be/nl/e-inclusion-design-wat-dat |
+
+> **Let op:** de levensgebeurtenissen-aanpak is een Nederlandse methodiek. De logica is overdraagbaar, de programmastructuur en financiering niet. Zie [kennis/16-levensgebeurtenissen.md](./16-levensgebeurtenissen.md).
 
 ## 6. Lokale bronnen
 

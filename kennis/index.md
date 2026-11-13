@@ -22,3 +22,4 @@ Elk document is één concept in de zin van de Open Knowledge Format-specificati
 - [AI en digitale inclusie](./13-ai-en-digitale-inclusie.md) — Kansen en risico's van artificiële intelligentie voor digitale inclusie, en wat een lokaal bestuur moet regelen.
 - [Bronnen](./14-bronnen.md) — Bronnenregister met URL en peildatum per thema, plus de grens van wat deze kennisbank niet is.
 - [Instrumenten en campagnes](./15-instrumenten-en-campagnes.md) — De gratis instrumenten, materialen en campagnes van Mediawijs, VVSG en partners: beleidstool, matrix, toolbox mensgericht ontwerpen, DigiCheck, databank, huisstijl en Digitale Week.
+- [Levensgebeurtenissen als ontwerpmethode](./16-levensgebeurtenissen.md) — Dienstverlening ontwerpen rond de momenten in iemands leven in plaats van rond diensten: klantreis, keten, breekpunten en een werkwijze in zes stappen.

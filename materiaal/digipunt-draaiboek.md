@@ -1,13 +1,13 @@
 ---
 type: draaiboek
 title: "Digipunt-draaiboek"
-description: "Van idee tot werking in vier fasen, met per fase de beslissingen, documenten en afspraken."
+description: "Van idee tot werking in vijf fasen, met per fase de beslissingen, documenten en afspraken."
 tags: [digipunt, draaiboek, implementatie]
 ---
 
 # Digipunt-draaiboek — van idee tot werking
 
-Dit draaiboek begeleidt je stap voor stap bij het opzetten van een digipunt. Het is opgebouwd in vier fasen en bevat per fase de beslissingen, documenten en afspraken die je nodig hebt.
+Dit draaiboek begeleidt je stap voor stap bij het opzetten van een digipunt. Het is opgebouwd in vijf fasen, van fase 0 (verkenning) tot fase 4 (verankering), en bevat per fase de beslissingen, documenten en afspraken die je nodig hebt.
 
 **Gebruik:** werk de fases in volgorde af, maar sla niets over. Een fase mag kort duren, maar niet verdwijnen.
 

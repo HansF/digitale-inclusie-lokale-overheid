@@ -14,7 +14,7 @@ sources:
   - resource: "https://www.apenstaartjaren.be"
   - resource: "https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal"
   - resource: "https://www.vlaanderen.be/publicaties/evaluatiestudie-naar-de-werking-en-impact-van-digibanken"
-  - resource: "https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf"
+  - resource: "https://researchportal.vub.be/en/publications/de-opkomst-van-digitale-inclusiebeleid-in-belgi%C3%AB-tussen-2020-en-2"
 ---
 
 # 02 — Cijfers en onderzoek
@@ -169,7 +169,7 @@ Onderzoek van Mediawijs (Paola Verhaert, 2026) bekeek de meerjarenplannen van de
 | **Apenstaartjaren 2026** | Digitale kwetsbaarheid van kinderen en jongeren (6-18 jaar) | https://www.apenstaartjaren.be |
 | **Onderzoek Iedereen Digitaal** (2023-2025) | Beleidsaanbevelingen, profielen van digihelpers, inclusieve dienstverlening, ROI | https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal |
 | **Evaluatiestudie Digibanken** | Werking en impact van digibanken | https://www.vlaanderen.be/publicaties/evaluatiestudie-naar-de-werking-en-impact-van-digibanken |
-| **Opkomst digitale-inclusiebeleid België 2020-2024** (VUB/UGent) | Historische analyse van het beleid | https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf |
+| **Opkomst digitale-inclusiebeleid België 2020-2024** (VUB/UGent) | Historische analyse van het beleid | https://researchportal.vub.be/en/publications/de-opkomst-van-digitale-inclusiebeleid-in-belgi%C3%AB-tussen-2020-en-2 (pdf-link op assets.vlaanderen.be is offline; publicatiepagina bij VUB) |
 
 ## 10. Hoe gebruik je cijfers verantwoord?
 
