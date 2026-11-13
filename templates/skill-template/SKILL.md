@@ -1,3 +1,4 @@
+---
 name: skill-template
 description: >
   Vervang deze beschrijving. Zeg in één zin welk concreet probleem de skill

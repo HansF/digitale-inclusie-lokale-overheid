@@ -117,6 +117,7 @@ Zie [kennis/12-organisaties-en-partners.md](./12-organisaties-en-partners.md) vo
 | Je weet nog niet waar je staat | Beleidstool (voorbereiding), nulmeting uit [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md) |
 | Je wil keuzes maken met een team | Zeven bouwstenen of de digitale-inclusiematrix, met [materiaal/bouwstenen-canvas.md](../materiaal/bouwstenen-canvas.md) |
 | Je wil een dienst herontwerpen | Toolbox mensgericht ontwerpen |
+| Je wil één levensgebeurtenis doorlichten | [kennis/16-levensgebeurtenissen.md](./16-levensgebeurtenissen.md) met [materiaal/klantreis-canvas.md](../materiaal/klantreis-canvas.md) |
 | Je wil medewerkers meten of opleiden | DigiCheck Basisvaardigheden en de opleidingsdraaiboeken |
 | Je zoekt lesmateriaal of folders | Databank digitale inclusie en de webshop |
 | Je wil je digipunt zichtbaar maken | Digipunt huisstijl |

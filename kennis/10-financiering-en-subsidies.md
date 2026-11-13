@@ -61,7 +61,7 @@ De Vlaamse overheid heeft digitale inclusie de afgelopen jaren via relancemiddel
 
 | Programma | Budget | Bevoegdheid | Wat het deed | Status 2026 |
 | :--- | ---: | :--- | :--- | :--- |
-| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | 47 digibanken: toegang, opleiding, begeleiding via fysieke knooppunten | Financiering loopt tot juli 2026 |
+| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | 47 digibanken: toegang, opleiding, begeleiding via fysieke knooppunten | Financiering liep volgens de bron tot juli 2026; controleer op verlenging |
 | **Iedereen Digitaal** | € 50 miljoen | Gelijke Kansen | Lokale besturen ondersteunen bij een e-inclusiebeleid | Bovenlokale middelen vallen weg |
 | **Digisprong** | € 375 miljoen | Onderwijs | ICT-infrastructuur en toestellen in het leerplichtonderwijs | Opgevolgd door Digiplan |
 | **Edusprong** | € 60 miljoen | Onderwijs | Digitale competenties in het volwassenenonderwijs | Opgevolgd door Digiplan |
@@ -75,7 +75,7 @@ De Vlaamse overheid heeft digitale inclusie de afgelopen jaren via relancemiddel
 
 ### 4.1 Wat wegvalt
 
-- De **Digibanken-financiering** eindigt in juli 2026.
+- De **Digibanken-financiering** liep volgens de bron tot juli 2026; controleer of er intussen verlenging of opvolging kwam.
 - De **bovenlokale middelen** van Iedereen Digitaal vallen weg.
 - Veel projectsubsidies zijn **eenmalig** en niet verlengbaar.
 

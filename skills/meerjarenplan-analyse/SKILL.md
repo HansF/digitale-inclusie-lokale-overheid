@@ -211,4 +211,4 @@ Gebruik `materiaal/raadsvoorstel-template.md`.
 
 ---
 
-**Gebruik ook:** `kennis/04-beleid-en-regelgeving.md`, `kennis/05-lokale-regierol.md`, `kennis/06-vier-voorwaarden-en-bouwstenen.md`, `kennis/11-monitoring-en-impact.md`, `materiaal/beleids-en-actieplan-template.md`, `materiaal/raadsvoorstel-template.md`, agent `beleidsadviseur-digitale-inclusie`.
+**Gebruik ook:** `kennis/02-cijfers-en-onderzoek.md` voor benchmarkcijfers over digitale inclusie in de Vlaamse meerjarenplannen 2026-2031, `kennis/04-beleid-en-regelgeving.md`, `kennis/05-lokale-regierol.md`, `kennis/06-vier-voorwaarden-en-bouwstenen.md`, `kennis/11-monitoring-en-impact.md`, `materiaal/beleids-en-actieplan-template.md`, `materiaal/raadsvoorstel-template.md`, agent `beleidsadviseur-digitale-inclusie`.

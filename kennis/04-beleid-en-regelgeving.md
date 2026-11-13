@@ -61,7 +61,7 @@ Digitale inclusie raakt meerdere beleidsdomeinen. Er is geen één Vlaams “dig
 
 ### 2.2 Digitale Strategie voor Vlaanderen
 
-- **Minister:** Matthias Diependaele (Digitalisering).
+- **Minister:** Matthias Diependaele (minister-president, bevoegd voor Digitalisering).
 - **9 speerpunten**, waaronder:
   - “Iedereen (continu) voorbereid op de digitale toekomst” — digitale vaardigheden en digitale inclusie;
   - “Gebruiker centraal” — inclusieve digitale dienstverlening met proactieve en slimme diensten.
@@ -105,7 +105,7 @@ Digitale inclusie raakt meerdere beleidsdomeinen. Er is geen één Vlaams “dig
 
 | Programma | Budget | Bevoegdheid | Wat het deed | Status 2026 |
 | :--- | ---: | :--- | :--- | :--- |
-| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | 47 digibanken: toegang, opleiding, begeleiding via fysieke knooppunten | Financiering loopt tot juli 2026 |
+| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | 47 digibanken: toegang, opleiding, begeleiding via fysieke knooppunten | Financiering liep volgens de bron tot juli 2026; controleer op verlenging |
 | **Iedereen Digitaal** | € 50 miljoen | Gelijke Kansen | Lokale besturen ondersteunen bij een e-inclusiebeleid | Bovenlokale middelen vallen weg |
 | **Digisprong** | € 375 miljoen | Onderwijs | ICT-infrastructuur en toestellen in het leerplichtonderwijs | Opgevolgd door Digiplan |
 | **Edusprong** | € 60 miljoen | Onderwijs | Digitale competenties in het volwassenenonderwijs | Opgevolgd door Digiplan |

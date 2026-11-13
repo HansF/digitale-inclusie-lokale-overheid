@@ -87,7 +87,7 @@ Een diverse mix van profielen is het sterkst:
 
 - **Geduld** — herhalen zonder te zuchten.
 - **Empathie** — erkennen dat iets moeilijk is.
-- **Klar taalgebruik** — geen jargon, geen Engelse termen zonder uitleg.
+- **Klare taal** — geen jargon, geen Engelse termen zonder uitleg.
 - **Respect** — niet overnemen, maar samen doen.
 - **Grenzen bewaken** — niet beslissen voor de bezoeker.
 

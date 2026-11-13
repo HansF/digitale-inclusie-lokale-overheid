@@ -108,7 +108,7 @@ Gebruik `materiaal/beleids-en-actieplan-template.md`. Structuur:
 - helder Nederlands, je-vorm;
 - korte zinnen;
 - geen jargon zonder uitleg;
-- elke cijfer met bron en jaar;
+- elk cijfer met bron en jaar;
 - elke actie met actor en timing.
 
 ## Stap 7 — Valideren en beslissen

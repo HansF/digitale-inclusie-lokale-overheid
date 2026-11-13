@@ -157,7 +157,7 @@ Je hebt invloed op meer actoren dan je denkt:
 
 - **gesubsidieerde organisaties** — neem inclusie op in de subsidievoorwaarden;
 - **leveranciers** — via bestek en contract;
-- ** concessiehouders** — via concessievoorwaarden;
+- **concessiehouders** — via concessievoorwaarden;
 - **eigen verenigingen en adviesraden** — via ondersteuning en verwachtingen;
 - **scholen, huisartsen, apotheken** — via convenanten en afstemming;
 - **werkgevers** — via lokale economie en werkgelegenheidsbeleid.

@@ -150,7 +150,7 @@ Onderzoek van Mediawijs (Paola Verhaert, 2026) bekeek de meerjarenplannen van de
 
 | Programma | Budget | Bevoegdheid | Doelgroep | Status |
 | :--- | ---: | :--- | :--- | :--- |
-| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | Volwassen bevolking | Financiering loopt tot juli 2026; 47 digibanken actief |
+| **Digibanken** | € 50 miljoen | Werk en Sociale Economie | Volwassen bevolking | Financiering liep volgens de bron tot juli 2026; 47 digibanken actief |
 | **Iedereen Digitaal** | € 50 miljoen | Gelijke Kansen | Lokale besturen | Ondersteunde lokale e-inclusiewerking; bovenlokale middelen vallen weg |
 | **Digisprong** | € 375 miljoen | Onderwijs | Leerplichtonderwijs | Opgevolgd door Digiplan |
 | **Edusprong** | € 60 miljoen | Onderwijs | Volwassenenonderwijs | Opgevolgd door Digiplan |
@@ -158,7 +158,7 @@ Onderzoek van Mediawijs (Paola Verhaert, 2026) bekeek de meerjarenplannen van de
 
 > **Bron:** Mediawijs, *Digitale-inclusiebeleid in Vlaanderen* — https://www.mediawijs.be/nl/artikels/digitale-inclusiebeleid-vlaanderen
 
-**Let op:** de Digibanken-financiering eindigt in juli 2026. Veel lokale besturen zoeken daardoor naar structurele middelen. Dit is een centrale vraag voor de bestuursperiode 2026-2031.
+**Let op:** de Digibanken-financiering liep volgens de bron tot juli 2026; controleer de actuele situatie. Veel lokale besturen zochten daardoor naar structurele middelen. Dit is een centrale vraag voor de bestuursperiode 2026-2031.
 
 ## 9. Onderzoeken om te kennen
 

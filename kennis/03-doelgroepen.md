@@ -53,7 +53,7 @@ Dit zijn groepen die in onderzoek en praktijk telkens terugkomen. Het is geen hi
 - Hebben vaker alleen een smartphone, een oud toestel of geen toestel.
 - Kunnen geen beter internet of herstellingen betalen.
 - Hebben vaak negatieve ervaringen met administratie en schaamte rond armoede.
-- **Hefbomen:** sociaal internetaanbod, HighFive, uitleendienst, kringwinkel, OCMW als toeleider.
+- **Hefbomen:** sociaal internetaanbod, HighFIVE, uitleendienst, kringwinkel, OCMW als toeleider.
 
 ### 3.3 Laaggeschoolden en laaggeletterden
 
