@@ -1,3 +1,13 @@
+---
+type: kennisdocument
+title: "Doelgroepen en hun noden"
+description: "Wie digitaal uitgesloten raakt, per doelgroep: kenmerken, drempels, hefbomen en de kanalen waarlangs je hen bereikt."
+tags: [doelgroepen, outreach, digistarters]
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/wie-kwetsbaar-voor-digitale-uitsluiting"
+  - resource: "https://www.mediawijs.be/nl/digihelper"
+---
+
 # 03 — Doelgroepen en hun noden
 
 Digitale uitsluiting treft niet één doelgroep. Ze treft mensen in heel verschillende situaties, vaak in combinaties. Dit document helpt je om doelgroepen te begrijpen, te prioriteren en te bereiken — zonder te stereotyperen.
@@ -227,4 +237,4 @@ Beantwoord per prioritaire groep:
 | Hoe bereik je hen? | | | |
 | Hoe meet je of je hen bereikt? | | | |
 
-Gebruik dit als input voor `materiaal/00-meting-digitale-inclusie.md` en de skill `doelgroepanalyse-en-outreach`.
+Gebruik dit als input voor [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md) en de skill `doelgroepanalyse-en-outreach`.

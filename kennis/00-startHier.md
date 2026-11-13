@@ -1,3 +1,10 @@
+---
+type: kennisdocument
+title: "Start hier: de kaart van deze kennisbank"
+description: "Leeswijzer met de drie lagen van de kennisbank, de twee modellen en de documenten die je per opdracht nodig hebt."
+tags: [leeswijzer, overzicht, modellen]
+---
+
 # Start hier: de kaart van deze kennisbank
 
 Deze kennisbank is opgebouwd als een consultancykit. Je kan ze lineair lezen, maar ze is ontworpen om per opdracht te gebruiken.
@@ -37,51 +44,51 @@ De eerste vier beschrijven *wat* je kan realiseren. De vijfde beschrijft *hoe* j
 
 ### “We beginnen van nul.”
 
-1. `kennis/01-wat-is-digitale-inclusie.md`
-2. `kennis/02-cijfers-en-onderzoek.md`
-3. `kennis/03-doelgroepen.md`
-4. `materiaal/00-meting-digitale-inclusie.md`
+1. [kennis/01-wat-is-digitale-inclusie.md](./01-wat-is-digitale-inclusie.md)
+2. [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md)
+3. [kennis/03-doelgroepen.md](./03-doelgroepen.md)
+4. [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md)
 5. Skill: `digitale-inclusie-scan`
 
 ### “We moeten een beleids- en actieplan maken.”
 
-1. `kennis/04-beleid-en-regelgeving.md`
-2. `kennis/05-lokale-regierol.md`
-3. `kennis/06-vier-voorwaarden-en-bouwstenen.md`
-4. `materiaal/beleids-en-actieplan-template.md`
+1. [kennis/04-beleid-en-regelgeving.md](./04-beleid-en-regelgeving.md)
+2. [kennis/05-lokale-regierol.md](./05-lokale-regierol.md)
+3. [kennis/06-vier-voorwaarden-en-bouwstenen.md](./06-vier-voorwaarden-en-bouwstenen.md)
+4. [materiaal/beleids-en-actieplan-template.md](../materiaal/beleids-en-actieplan-template.md)
 5. Skill: `beleidsplan-digitale-inclusie`
 
 ### “We willen een digipunt.”
 
-1. `kennis/07-digipunten.md`
-2. `kennis/08-digihelpers.md`
-3. `materiaal/digipunt-draaiboek.md`
+1. [kennis/07-digipunten.md](./07-digipunten.md)
+2. [kennis/08-digihelpers.md](./08-digihelpers.md)
+3. [materiaal/digipunt-draaiboek.md](../materiaal/digipunt-draaiboek.md)
 4. Skill: `digipunt-opzetten`
 
 ### “Onze website en formulieren zijn niet toegankelijk.”
 
-1. `kennis/09-toegankelijke-dienstverlening.md`
-2. `materiaal/toegankelijkheidschecklist.md`
+1. [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md)
+2. [materiaal/toegankelijkheidschecklist.md](../materiaal/toegankelijkheidschecklist.md)
 3. Skill: `toegankelijkheidsaudit`
 
 ### “We bereiken de juiste mensen niet.”
 
-1. `kennis/03-doelgroepen.md`
-2. `materiaal/communicatieplan-digistarters.md`
+1. [kennis/03-doelgroepen.md](./03-doelgroepen.md)
+2. [materiaal/communicatieplan-digistarters.md](../materiaal/communicatieplan-digistarters.md)
 3. Skill: `doelgroepanalyse-en-outreach`
 
 ### “We zoeken geld en partners.”
 
-1. `kennis/10-financiering-en-subsidies.md`
-2. `kennis/12-organisaties-en-partners.md`
-3. `materiaal/leveranciers-en-partners.md`
+1. [kennis/10-financiering-en-subsidies.md](./10-financiering-en-subsidies.md)
+2. [kennis/12-organisaties-en-partners.md](./12-organisaties-en-partners.md)
+3. [materiaal/leveranciers-en-partners.md](../materiaal/leveranciers-en-partners.md)
 4. Skill: `e-inclusie-businesscase`
 
 ### “We moeten verantwoording afleggen.”
 
-1. `kennis/11-monitoring-en-impact.md`
-2. `materiaal/kpi-en-monitoringskader.md`
-3. `materiaal/raadsvoorstel-template.md`
+1. [kennis/11-monitoring-en-impact.md](./11-monitoring-en-impact.md)
+2. [materiaal/kpi-en-monitoringskader.md](../materiaal/kpi-en-monitoringskader.md)
+3. [materiaal/raadsvoorstel-template.md](../materiaal/raadsvoorstel-template.md)
 
 ## 4. De belangrijkste definities in één minuut
 

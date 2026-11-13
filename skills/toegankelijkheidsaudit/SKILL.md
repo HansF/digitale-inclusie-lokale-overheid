@@ -1,4 +1,5 @@
 ---
+type: skill
 name: toegankelijkheidsaudit
 license: CC-BY-NC-SA-4.0
 description: Voer een toegankelijkheidsaudit uit op een website, formulier, app, document of loket. Gebruik wanneer iemand vraagt "is onze website toegankelijk", "check ons formulier", "WCAG-audit" of "onze dienstverlening is niet bruikbaar voor iedereen".

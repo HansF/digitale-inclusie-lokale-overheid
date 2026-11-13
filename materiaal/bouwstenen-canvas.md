@@ -1,3 +1,10 @@
+---
+type: canvas
+title: "Bouwstenen-canvas"
+description: "Eén pagina om per bouwsteencategorie te bepalen wat je al doet, wat ontbreekt en wat de volgende stap is."
+tags: [canvas, workshop, bouwstenen]
+---
+
 # Bouwstenen-canvas — werksjabloon
 
 Dit canvas brengt in één oogopslag in kaart **wat je al doet**, **wat ontbreekt** en **wat de volgende stap is** per bouwsteencategorie. Gebruik het in een workshop van 90 tot 120 minuten met 6 tot 12 deelnemers.
@@ -272,4 +279,4 @@ Plaats je prioriteiten in de matrix.
 
 **Volgende bijeenkomst:** …
 
-**Verder lezen:** `kennis/06-vier-voorwaarden-en-bouwstenen.md`, `materiaal/beleids-en-actieplan-template.md`.
+**Verder lezen:** [kennis/06-vier-voorwaarden-en-bouwstenen.md](../kennis/06-vier-voorwaarden-en-bouwstenen.md), [materiaal/beleids-en-actieplan-template.md](./beleids-en-actieplan-template.md).

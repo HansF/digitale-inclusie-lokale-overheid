@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Raadsvoorstel digitale inclusie"
+description: "Sjabloon voor een beslissbaar raadsvoorstel of collegenota, met argumentatie, kost en risico's."
+tags: [raadsvoorstel, besluitvorming, sjabloon]
+---
+
 # Raadsvoorstel digitale inclusie — sjabloon
 
 Dit sjabloon helpt je een **raadsvoorstel** of **collegenota** te schrijven dat beslissbaar is. Het is geen juridische tekst: laat het finale voorstel nalezen door je juridische dienst en je financieel directeur.
@@ -271,4 +278,4 @@ Het college / de raad wordt gevraagd:
 
 ---
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `materiaal/beleids-en-actieplan-template.md`, `materiaal/kpi-en-monitoringskader.md`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](../kennis/05-lokale-regierol.md), [materiaal/beleids-en-actieplan-template.md](./beleids-en-actieplan-template.md), [materiaal/kpi-en-monitoringskader.md](./kpi-en-monitoringskader.md).

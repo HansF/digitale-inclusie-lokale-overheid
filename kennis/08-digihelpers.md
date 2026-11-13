@@ -1,3 +1,13 @@
+---
+type: kennisdocument
+title: "Digihelpers"
+description: "Digihelpers werven, opleiden, omkaderen en evalueren, met profielen, afspraken en de grenzen aan digihulp."
+tags: [digihelpers, vrijwilligers, vorming]
+sources:
+  - resource: "https://www.mediawijs.be/nl/cijfersdigitaleinclusie"
+  - resource: "https://www.mediawijs.be/nl/artikels/wie-zet-je-als-digihelper-een-digipunt"
+---
+
 # 08 — Digihelpers
 
 Een **digihelper** is iemand die digistarters helpt bij digitale vragen. Dat kan als vrijwilliger, als professional of als doelgroepmedewerker, individueel of in groep.
@@ -211,7 +221,7 @@ Ook binnen je eigen organisatie heb je digihelpers nodig. Mediawijs heeft een **
 - **Leertijd** en een **veilige foutenculatuur** zijn belangrijker dan een eenmalige opleiding.
 - **Schaamte** op de werkvloer is een reële drempel: maak hulp vragen normaal.
 
-Zie `kennis/09-toegankelijke-dienstverlening.md` voor de link met interne processen.
+Zie [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md) voor de link met interne processen.
 
 ## 9. Kwaliteitsindicatoren voor een digihelperwerking
 
@@ -250,4 +260,4 @@ Zie `kennis/09-toegankelijke-dienstverlening.md` voor de link met interne proces
 - [ ] Meten we tevredenheid, verloop en doorverwijzingen?
 - [ ] Voelt elke helper zich erkend en ondersteund?
 
-**Verder lezen:** `kennis/07-digipunten.md`, `materiaal/digihelper-profiel-en-vacature.md`, `materiaal/digipunt-draaiboek.md`, skill `digihelper-werking`.
+**Verder lezen:** [kennis/07-digipunten.md](./07-digipunten.md), [materiaal/digihelper-profiel-en-vacature.md](../materiaal/digihelper-profiel-en-vacature.md), [materiaal/digipunt-draaiboek.md](../materiaal/digipunt-draaiboek.md), skill `digihelper-werking`.

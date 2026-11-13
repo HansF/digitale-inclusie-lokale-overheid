@@ -1,4 +1,5 @@
 ---
+type: skill
 name: beleidsplan-digitale-inclusie
 license: CC-BY-NC-SA-4.0
 description: Schrijf een beleidsnota en actieplan digitale inclusie voor een lokaal bestuur, met visie, doelstellingen, acties, budget en indicatoren. Gebruik wanneer iemand vraagt "maak een beleidsplan", "schrijf een nota digitale inclusie", "we hebben een actieplan nodig" of "zet dit in het meerjarenplan".

@@ -1,3 +1,10 @@
+---
+type: checklist
+title: "Toegankelijkheidschecklist"
+description: "Checklist voor website, formulieren en dienstverlening op basis van de vier WCAG-principes en klare taal."
+tags: [toegankelijkheid, wcag, checklist]
+---
+
 # Toegankelijkheidschecklist — website, formulieren en dienstverlening
 
 Deze checklist helpt je om de toegankelijkheid van je digitale dienstverlening te beoordelen. Ze is gebaseerd op de vier WCAG-principes en aangevuld met klare taal, click-call-connect en gebruikerstesten.
@@ -275,4 +282,4 @@ Begin met deze tien, als je niet alles tegelijk kan aanpakken:
 
 ---
 
-**Verder lezen:** `kennis/09-toegankelijke-dienstverlening.md`, `kennis/04-beleid-en-regelgeving.md`, skill `toegankelijkheidsaudit`.
+**Verder lezen:** [kennis/09-toegankelijke-dienstverlening.md](../kennis/09-toegankelijke-dienstverlening.md), [kennis/04-beleid-en-regelgeving.md](../kennis/04-beleid-en-regelgeving.md), skill `toegankelijkheidsaudit`.

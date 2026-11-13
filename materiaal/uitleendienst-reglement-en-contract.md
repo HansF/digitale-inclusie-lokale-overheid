@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Uitleendienst voor digitale toestellen"
+description: "Reglement en contract voor het uitlenen van toestellen, met aansprakelijkheid, privacy en opvolging."
+tags: [uitleendienst, toestellen, sjabloon]
+---
+
 # Uitleendienst voor digitale toestellen — reglement en contract
 
 Dit document bevat:
@@ -270,4 +277,4 @@ De ontlener verklaart:
 
 ---
 
-**Verder lezen:** `kennis/07-digipunten.md`, `kennis/09-toegankelijke-dienstverlening.md`, `materiaal/digipunt-draaiboek.md`.
+**Verder lezen:** [kennis/07-digipunten.md](../kennis/07-digipunten.md), [kennis/09-toegankelijke-dienstverlening.md](../kennis/09-toegankelijke-dienstverlening.md), [materiaal/digipunt-draaiboek.md](./digipunt-draaiboek.md).

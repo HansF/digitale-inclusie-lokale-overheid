@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Beleids- en actieplan digitale inclusie"
+description: "Sjabloon voor een beleidsnota en een actieplan met fasen, actietabel, indicatoren en een verdedigbare onderbouwing."
+tags: [beleidsplan, actieplan, sjabloon]
+---
+
 # Beleids- en actieplan digitale inclusie — sjabloon
 
 Dit sjabloon helpt je een **beleidsnota** en een **actieplan** te schrijven dat je kan verdedigen voor college, raad en partners. Het volgt de vier fasen van de Beleidstool en de vijf bouwsteencategorieën.
@@ -203,7 +210,7 @@ Vul per actie één fiche in. Kopieer de fiche zo vaak als nodig.
 | :--- | ---: | ---: | :--- | :--- |
 | | | | | |
 
-Zie `materiaal/kpi-en-monitoringskader.md`.
+Zie [materiaal/kpi-en-monitoringskader.md](./kpi-en-monitoringskader.md).
 
 ### 4. Communicatie
 
@@ -211,7 +218,7 @@ Zie `materiaal/kpi-en-monitoringskader.md`.
 | :--- | :--- | :--- | :--- | :--- |
 | | | | | |
 
-Zie `materiaal/communicatieplan-digistarters.md`.
+Zie [materiaal/communicatieplan-digistarters.md](./communicatieplan-digistarters.md).
 
 ### 5. Bijsturing
 
@@ -236,4 +243,4 @@ Zie `materiaal/communicatieplan-digistarters.md`.
 
 ---
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `kennis/06-vier-voorwaarden-en-bouwstenen.md`, `materiaal/raadsvoorstel-template.md`, skill `beleidsplan-digitale-inclusie`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](../kennis/05-lokale-regierol.md), [kennis/06-vier-voorwaarden-en-bouwstenen.md](../kennis/06-vier-voorwaarden-en-bouwstenen.md), [materiaal/raadsvoorstel-template.md](./raadsvoorstel-template.md), skill `beleidsplan-digitale-inclusie`.

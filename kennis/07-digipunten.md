@@ -1,3 +1,13 @@
+---
+type: kennisdocument
+title: "Digipunten"
+description: "Een digipunt opzetten of verbeteren: locatie, aanbod, bemensing, kwaliteit, financiering en veelgemaakte fouten."
+tags: [digipunt, toegang, fysieke-dienstverlening]
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-organiseer-je-een-digipunt"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-kan-je-meer-digistarters-bereiken"
+---
+
 # 07 — Digipunten
 
 Een **digipunt** is een laagdrempelige, fysieke plek waar mensen terechtkunnen met digitale vragen: individuele ondersteuning, toegang tot toestellen en internet, of vorming in groep.
@@ -43,7 +53,7 @@ Een ideale werking combineert profielen:
 - **doelgroepmedewerkers** — aanwezigheid verzekerd, begeleid, maar vaak in een leertraject en kortdurend;
 - **professionals** — professioneel niveau en expertise, maar duur.
 
-Zie `kennis/08-digihelpers.md` voor de volledige analyse.
+Zie [kennis/08-digihelpers.md](./08-digihelpers.md) voor de volledige analyse.
 
 ### 2.3 Een locatie
 
@@ -88,7 +98,7 @@ Combineer de drie. Hoe meer kanalen, hoe meer mensen je bereikt.
 Twee modellen:
 
 - **Openbare computerruimte** — bezoekers gebruiken toestellen ter plaatse. Voorzie een stabiele verbinding, printers, kaartlezers en eenvoudige handleidingen.
-- **Uitleendienst** — bezoekers ontlenen tijdelijk een laptop, tablet of smartphone. Zie `kennis/07` verder en `materiaal/uitleendienst-reglement-en-contract.md`.
+- **Uitleendienst** — bezoekers ontlenen tijdelijk een laptop, tablet of smartphone. Zie `kennis/07` verder en [materiaal/uitleendienst-reglement-en-contract.md](../materiaal/uitleendienst-reglement-en-contract.md).
 
 **Tips voor gebruik en onderhoud:**
 
@@ -222,7 +232,7 @@ Minstens deze indicatoren:
 | **Digihelpers** | Aantal, uren, verloop | Administratie |
 | **Toegankelijkheid** | Score op de checklist | Jaarlijkse audit |
 
-Zie `kennis/11-monitoring-en-impact.md` en `materiaal/kpi-en-monitoringskader.md`.
+Zie [kennis/11-monitoring-en-impact.md](./11-monitoring-en-impact.md) en [materiaal/kpi-en-monitoringskader.md](../materiaal/kpi-en-monitoringskader.md).
 
 ## 8. Financiering van een digipunt
 
@@ -237,6 +247,6 @@ Kostenposten:
 - **verzekering** — burgerlijke aansprakelijkheid, toestellen;
 - **administratie** — registratie, opvolging, evaluatie.
 
-Zie `kennis/10-financiering-en-subsidies.md`.
+Zie [kennis/10-financiering-en-subsidies.md](./10-financiering-en-subsidies.md).
 
-**Verder lezen:** `kennis/08-digihelpers.md`, `materiaal/digipunt-draaiboek.md`, `materiaal/uitleendienst-reglement-en-contract.md`.
+**Verder lezen:** [kennis/08-digihelpers.md](./08-digihelpers.md), [materiaal/digipunt-draaiboek.md](../materiaal/digipunt-draaiboek.md), [materiaal/uitleendienst-reglement-en-contract.md](../materiaal/uitleendienst-reglement-en-contract.md).

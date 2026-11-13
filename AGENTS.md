@@ -90,3 +90,28 @@ Vermijd lange inleidingen. Schrijf in helder Nederlands, in de je-vorm, met kort
 - `kennis/` en `materiaal/` — de gedeelde inhoud waar de skills naar verwijzen. Verwijs met een pad vanaf de repo-root, bijvoorbeeld `kennis/07-digipunten.md`. Kopieer geen cijfers in een skill.
 - `.opencode/agents/` — de consultants.
 - `tests/validate_skills.py` — controle op frontmatter, naamgeving en links. Draai dit na elke wijziging aan een skill.
+- `tests/validate_okf.py` — controle op de Open Knowledge Format-conformiteit van `kennis/` en `materiaal/`.
+
+## 9. De kennisbank is een OKF-bundel
+
+`kennis/` en `materiaal/` volgen de Open Knowledge Format-specificatie v0.2. Elk document is een concept met frontmatter:
+
+```yaml
+---
+type: kennisdocument        # verplicht; bv. kennisdocument, sjabloon, canvas, checklist, draaiboek, bronnenregister
+title: "Korte titel"
+description: "Eén zin: wat staat erin en wanneer gebruik je het."
+tags: [thema, thema]
+stale_after: 2027-06-30T00:00:00Z   # alleen bij veranderlijke inhoud
+sources:
+  - resource: "https://…"           # enkel URL's die echt in de tekst staan
+---
+```
+
+Regels:
+
+- **Verzin geen bronnen, auteurs of verificaties.** `sources` bevat alleen URL's die in het document zelf voorkomen. `generated` en `verified` vul je enkel in als je het document echt hebt nagekeken en de auteur kent.
+- Nieuwe documenten komen in `index.md` van de bundel terecht, en elke wijziging krijgt een regel in `log.md` onder de datum van vandaag (nieuwste eerst).
+- Verwijs naar een ander document met een markdown-link, niet met een backtick-pad: `[kennis/07-digipunten.md](../kennis/07-digipunten.md)`.
+- Voer `python3 tests/validate_okf.py` uit na elke wijziging.
+

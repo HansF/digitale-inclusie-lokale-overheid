@@ -21,6 +21,9 @@ jobs:
       - name: Valideer de skills
         run: python3 tests/validate_skills.py
 
+      - name: Valideer de OKF-bundels
+        run: python3 tests/validate_okf.py
+
       - name: Controleer dat er geen lege skillmappen zijn
         run: |
           for d in skills/*/; do

@@ -121,6 +121,8 @@ Wil je de kennisbasis lokaal houden maar de skills elders gebruiken? Kopieer `sk
 
 De skills zijn het speelveld; de kennisbank is de ondergrond. De skills verwijzen expliciet naar deze documenten in plaats van zelf cijfers te verzinnen.
 
+Begin bij [`kennis/index.md`](kennis/index.md) of bij [`materiaal/index.md`](materiaal/index.md): dat zijn de vaste ingangen van de twee OKF-bundels.
+
 ### Kennis
 
 | Document | Inhoud |
@@ -198,9 +200,16 @@ digitale-inclusie-lokale-overheid/
 ├── templates/
 │   └── skill-template/           ← vertrekpunt voor een nieuwe skill
 ├── tests/
-│   └── validate_skills.py        ← controle op frontmatter, naam en links
-├── kennis/                       ← vijftien kennisdocumenten
-├── materiaal/                    ← twaalf sjablonen en checklists
+│   ├── validate_skills.py        ← controle op frontmatter, naam en links
+│   └── validate_okf.py           ← OKF-conformiteit van de kennisbank
+├── kennis/                      ← OKF-bundel: vijftien kennisdocumenten
+│   ├── index.md                  ← begin hier
+│   ├── log.md                    ← wijzigingen, nieuwste eerst
+│   └── 00-startHier.md … 14-bronnen.md
+├── materiaal/                   ← OKF-bundel: twaalf sjablonen en checklists
+│   ├── index.md
+│   ├── log.md
+│   └── …
 ├── .github/
 │   ├── workflows/                ← validatie bij elke push en pull request
 │   └── ISSUE_TEMPLATE/           ← meld een fout of stel een skill voor
@@ -211,6 +220,50 @@ digitale-inclusie-lokale-overheid/
 ### Waarom staat de kennisbank naast de skills en niet erin?
 
 Een skill is één werkwijze; de kennisbank is gedeelde inhoud. `kennis/` en `materiaal/` staan daarom één keer in de repo en de skills verwijzen ernaar met een pad vanaf de repo-root. Zo staat elk cijfer op één plaats en veroudert het niet in negen kopieën.
+
+### Open Knowledge Format
+
+De kennisbank volgt de [Open Knowledge Format-specificatie (OKF v0.2)](https://github.com/GoogleCloudPlatform/open-knowledge-format). OKF is een open, leverancieronafhankelijke manier om kennis als markdown met YAML-frontmatter te publiceren: geen SDK, geen database, alleen bestanden die je met `cat` kan lezen.
+
+`kennis/` en `materiaal/` zijn elk een **bundel** met een vaste ingang (`index.md`) en een wijzigingslog (`log.md`). Elk document is één **concept**:
+
+```yaml
+---
+type: kennisdocument
+title: "Digipunten"
+description: "Een digipunt opzetten of verbeteren: locatie, aanbod, …"
+tags: [digipunt, toegang, fysieke-dienstverlening]
+stale_after: 2027-06-30T00:00:00Z
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-organiseer-je-een-digipunt"
+---
+```
+
+Wat dat oplevert:
+
+| Veld | Waarom het er staat |
+| :--- | :--- |
+| `type` | Het enige verplichte veld. Maakt onderscheid tussen kennisdocument, sjabloon, canvas, checklist en draaiboek. |
+| `title`, `description` | Wat een agent of lezer ziet voor hij het document opent. |
+| `tags` | Cross-cutting categorieën, zodat je over thema's heen kan filteren. |
+| `sources` | De bronnen waarop het document steunt. Elke URL komt uit de tekst zelf; er is niets bijverzonnen. |
+| `stale_after` | Vanaf wanneer de inhoud als verouderd geldt. Staat op de cijfer-, beleids-, financierings- en bronnendocumenten. |
+
+Twee dingen zijn bewust **niet** ingevuld: `generated` en `verified`. We weten van de bestaande documenten de oorspronkelijke auteur en datum niet, en een reviewer heeft ze niet een voor een gevalideerd. Die velden invullen zou schijnzekerheid geven. Wie een document vandaag reviewt, kan ze toevoegen:
+
+```yaml
+verified: { by: human:hans, at: 2026-11-13T10:00:00Z }
+```
+
+De verwijzingen tussen documenten zijn gewone markdown-links, zodat de kennisbank één navigeerbaar netwerk is in plaats van losse bestanden.
+
+**Conformiteit controleren:**
+
+```bash
+python3 tests/validate_okf.py
+```
+
+Die controle kijkt of elk concept een `type` heeft, of `index.md` en `log.md` de juiste structuur hebben, of er geen links stuk zijn, en waarschuwt wanneer een document verouderd is volgens `stale_after`. De controle faalt op fouten, niet op waarschuwingen.
 
 ## Een skill toevoegen
 
@@ -244,7 +297,12 @@ Dezelfde controle draait in GitHub Actions bij elke push en pull request.
 
 ## Bijdragen
 
-Verbeteringen zijn welkom: een verouderd cijfer, een ontbrekende bron, een skill die een stap mist, een sjabloon dat in de praktijk niet werkt. Open een issue via de templates of een pull request met wat je wijzigt en waarom. Voeg bij cijfers altijd de bron en de peildatum toe, en voer `python3 tests/validate_skills.py` uit voor je indient.
+Verbeteringen zijn welkom: een verouderd cijfer, een ontbrekende bron, een skill die een stap mist, een sjabloon dat in de praktijk niet werkt. Open een issue via de templates of een pull request met wat je wijzigt en waarom. Voeg bij cijfers altijd de bron en de peildatum toe, en voer beide controles uit voor je indient:
+
+```bash
+python3 tests/validate_skills.py
+python3 tests/validate_okf.py
+```
 
 ## Licentie
 

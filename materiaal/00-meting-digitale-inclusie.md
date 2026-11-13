@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Nulmeting digitale inclusie"
+description: "Werksjabloon om de startsituatie in kaart te brengen: vragen per bouwsteen, bewijsstukken en een samenvatting voor het college."
+tags: [nulmeting, meting, sjabloon]
+---
+
 # Nulmeting digitale inclusie — werksjabloon
 
 Gebruik dit sjabloon om de startsituatie van je stad, gemeente, OCMW, bibliotheek of organisatie in kaart te brengen. Het resultaat is een **nulmeting**: een foto van vandaag, zodat je later vooruitgang kan aantonen.
@@ -239,4 +246,4 @@ Vul per initiatief één rij in.
 
 ---
 
-**Volgende stap:** gebruik de synthese als input voor `materiaal/beleids-en-actieplan-template.md` en de skill `digitale-inclusie-scan`.
+**Volgende stap:** gebruik de synthese als input voor [materiaal/beleids-en-actieplan-template.md](./beleids-en-actieplan-template.md) en de skill `digitale-inclusie-scan`.

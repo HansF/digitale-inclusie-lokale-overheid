@@ -1,3 +1,15 @@
+---
+type: kennisdocument
+title: "Wat is digitale inclusie?"
+description: "Definitie, de vier voorwaarden, click-call-connect, de dertien indicatoren van digitale uitsluiting en de vijf misvattingen."
+tags: [definitie, voorwaarden, indicatoren]
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/wat-digitale-inclusie"
+  - resource: "https://www.mediawijs.be/nl/artikels/wat-de-digitale-kloof-en-wat-het-verschil-met-digitale-uitsluiting"
+  - resource: "https://www.mediawijs.be/nl/dossiers/inclusion-design"
+  - resource: "https://www.mediawijs.be/nl/artikels/wie-kwetsbaar-voor-digitale-uitsluiting"
+---
+
 # 01 — Wat is digitale inclusie?
 
 ## 1. Definitie
@@ -167,4 +179,4 @@ De kerngedachte: **digitale inclusie is een transversaal beleidsthema, geen proj
 - [ ] Kan ik uitleggen waarom een laptop alleen geen inclusiebeleid is?
 - [ ] Ken ik de vijf factoren en de 13 indicatoren?
 
-**Verder lezen:** `kennis/02-cijfers-en-onderzoek.md`, `kennis/03-doelgroepen.md`, `kennis/06-vier-voorwaarden-en-bouwstenen.md`.
+**Verder lezen:** [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md), [kennis/03-doelgroepen.md](./03-doelgroepen.md), [kennis/06-vier-voorwaarden-en-bouwstenen.md](./06-vier-voorwaarden-en-bouwstenen.md).

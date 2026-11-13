@@ -1,3 +1,10 @@
+---
+type: canvas
+title: "Stakeholder- en netwerkanalyse"
+description: "Sjabloon om actoren, rollen en invloed in kaart te brengen en een samenwerkingsstrategie te kiezen."
+tags: [netwerk, stakeholders, canvas]
+---
+
 # Stakeholder- en netwerkanalyse — werksjabloon
 
 Dit sjabloon helpt je om de actoren rond digitale inclusie in kaart te brengen, hun rol en invloed te bepalen, en een gerichte samenwerkingsstrategie te kiezen.
@@ -217,4 +224,4 @@ Wat bieden wij? Wat vragen wij?
 - **Waaraan merken we dat het werkt?** …
 - **Wie houdt de netwerkkaart up-to-date?** …
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `kennis/12-organisaties-en-partners.md`, `materiaal/leveranciers-en-partners.md`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](../kennis/05-lokale-regierol.md), [kennis/12-organisaties-en-partners.md](../kennis/12-organisaties-en-partners.md), [materiaal/leveranciers-en-partners.md](./leveranciers-en-partners.md).

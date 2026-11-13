@@ -1,3 +1,22 @@
+---
+type: kennisdocument
+title: "Cijfers en onderzoek"
+description: "Cijfers met bron en peildatum over digitale vaardigheden, het informele netwerk en digitale inclusie in de meerjarenplannen 2026-2031."
+tags: [cijfers, onderzoek, meerjarenplan]
+stale_after: 2027-06-30T00:00:00Z
+sources:
+  - resource: "https://www.mediawijs.be/nl/cijfersdigitaleinclusie"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusie-de-meerjarenplannen"
+  - resource: "https://assets.mediawijs.be/2026-04/2026_Mediawijs_Rapport_Digitale_inclusie_in_de_meerjarenplannen.pdf"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusiebeleid-vlaanderen"
+  - resource: "https://www.imec.be/nl/kennisuitwisseling/techmeters/digimeter/imecdigimeter-2025"
+  - resource: "https://kbs-frb.be/nl/barometer-digitale-inclusie-2026"
+  - resource: "https://www.apenstaartjaren.be"
+  - resource: "https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal"
+  - resource: "https://www.vlaanderen.be/publicaties/evaluatiestudie-naar-de-werking-en-impact-van-digibanken"
+  - resource: "https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf"
+---
+
 # 02 — Cijfers en onderzoek
 
 Cijfers helpen om digitale uitsluiting bespreekbaar te maken. Maar cijfers liegen soms: ze zijn een momentopname, ze hanteren een bepaalde definitie en ze verbergen verschillen binnen groepen.
@@ -101,7 +120,7 @@ Dat lijkt goed nieuws, maar:
 
 - **33%** heeft dus geen informeel netwerk om op terug te vallen.
 - Wie geen sterk sociaal netwerk heeft, is aangewezen op **formele hulpbronnen**: digipunten, bibliotheken, OCMW, Ligo, SAAMO.
-- Informele hulp is niet altijd kwaliteitsvol of veilig (zie `kennis/08-digihelpers.md` over de grenzen van digihelp).
+- Informele hulp is niet altijd kwaliteitsvol of veilig (zie [kennis/08-digihelpers.md](./08-digihelpers.md) over de grenzen van digihelp).
 
 ## 7. Digitale inclusie in de meerjarenplannen (2026-2031)
 
@@ -165,7 +184,7 @@ Onderzoek van Mediawijs (Paola Verhaert, 2026) bekeek de meerjarenplannen van de
 
 - **Lokale bevraging** bij digipunten, OCMW-cliënten, bibliotheekbezoekers.
 - **Registratie** van digipunten: aantal bezoekers, type vragen, doorverwijzingen.
-- **DigiCheck Basisvaardigheden** voor medewerkers (zie `kennis/08-digihelpers.md` en de Mediawijs-tool).
+- **DigiCheck Basisvaardigheden** voor medewerkers (zie [kennis/08-digihelpers.md](./08-digihelpers.md) en de Mediawijs-tool).
 - **Interviews** met eerstelijnsmedewerkers en doelgroeporganisaties.
 - **Wijkgerichte data** van de Vlaamse overheid (statistieken, kansarmoede-index).
 - **Webanalytics** en zoektermen op de gemeentelijke website.

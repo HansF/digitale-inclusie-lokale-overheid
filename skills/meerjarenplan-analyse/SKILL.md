@@ -1,4 +1,5 @@
 ---
+type: skill
 name: meerjarenplan-analyse
 license: CC-BY-NC-SA-4.0
 description: Analyseer of screen het meerjarenplan en de budgetten van een lokaal bestuur op digitale inclusie, en formuleer gerichte aanpassingen voor de volgende legislatuur. Gebruik wanneer iemand vraagt "staat digitale inclusie in ons meerjarenplan", "screen ons MJP", "hoe verankeren we dit in de begroting" of "maak een raadsvoorstel".

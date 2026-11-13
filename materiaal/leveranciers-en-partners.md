@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Leveranciers en partners"
+description: "Beoordelings- en afsprakenkader voor leveranciers en partners, met aandacht voor toegankelijkheid in bestekken."
+tags: [leveranciers, bestekken, afspraken]
+---
+
 # Leveranciers en partners — overzicht en afsprakenkader
 
 Dit document helpt je om **leveranciers en partners** te kiezen, te beoordelen en afspraken vast te leggen. Het bevat:
@@ -280,4 +287,4 @@ Dit document helpt je om **leveranciers en partners** te kiezen, te beoordelen e
 
 ---
 
-**Verder lezen:** `kennis/12-organisaties-en-partners.md`, `kennis/05-lokale-regierol.md`, `materiaal/stakeholder-en-netwerkanalyse.md`.
+**Verder lezen:** [kennis/12-organisaties-en-partners.md](../kennis/12-organisaties-en-partners.md), [kennis/05-lokale-regierol.md](../kennis/05-lokale-regierol.md), [materiaal/stakeholder-en-netwerkanalyse.md](./stakeholder-en-netwerkanalyse.md).

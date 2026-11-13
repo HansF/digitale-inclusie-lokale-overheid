@@ -1,3 +1,10 @@
+---
+type: kennisdocument
+title: "AI en digitale inclusie"
+description: "Kansen en risico's van artificiële intelligentie voor digitale inclusie, en wat een lokaal bestuur moet regelen."
+tags: [ai, ethiek, dienstverlening]
+---
+
 # 13 — AI en digitale inclusie
 
 Artificiële intelligentie (AI) verandert hoe overheden communiceren, beslissen en dienstverlenen. Dat biedt kansen voor digitale inclusie, maar creëert ook **nieuwe vormen van uitsluiting**.
@@ -65,7 +72,7 @@ Cijfers over AI-gebruik zijn volop in ontwikkeling. Wat we weten uit breder digi
 
 **Interpretatie:** de groep die het minst weerbaar is tegen desinformatie en fouten, is ook de groep die het minst kan profiteren van AI. Zonder begeleiding vergroot AI de kloof.
 
-> **Bron:** zie `kennis/02-cijfers-en-onderzoek.md` voor de volledige cijfers en peildata.
+> **Bron:** zie [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md) voor de volledige cijfers en peildata.
 
 ## 5. AI in de dienstverlening: ontwerpregels
 
@@ -223,4 +230,4 @@ Stel bij elke AI-toepassing vijf vragen:
 - [ ] Worden digistarters betrokken bij het testen?
 - [ ] Meten we kwaliteit, fouten en bias?
 
-**Verder lezen:** `kennis/01-wat-is-digitale-inclusie.md`, `kennis/09-toegankelijke-dienstverlening.md`, `kennis/04-beleid-en-regelgeving.md`.
+**Verder lezen:** [kennis/01-wat-is-digitale-inclusie.md](./01-wat-is-digitale-inclusie.md), [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md), [kennis/04-beleid-en-regelgeving.md](./04-beleid-en-regelgeving.md).

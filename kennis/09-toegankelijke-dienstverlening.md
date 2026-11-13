@@ -1,3 +1,12 @@
+---
+type: kennisdocument
+title: "Toegankelijke dienstverlening"
+description: "Inclusion by design: WCAG, klare taal, formulieren, kanalen en het verankeren van toegankelijkheid in processen en bestekken."
+tags: [toegankelijkheid, wcag, dienstverlening]
+sources:
+  - resource: "https://www.mediawijs.be/nl/dossiers/inclusion-design"
+---
+
 # 09 — Toegankelijke dienstverlening
 
 Digitale inclusie gaat niet alleen over mensen die moeten bijleren. Ze gaat ook over **diensten die beter moeten ontwerpen**. Dat is de vierde voorwaarde: **inclusion by design**.
@@ -251,7 +260,7 @@ Een bruikbaar rapport bevat:
 - **aanbeveling** en **prioriteit**;
 - **verantwoordelijke** en **termijn**.
 
-Gebruik `materiaal/toegankelijkheidschecklist.md`.
+Gebruik [materiaal/toegankelijkheidschecklist.md](../materiaal/toegankelijkheidschecklist.md).
 
 ## 10. Toegankelijkheid verankeren
 
@@ -295,7 +304,7 @@ Ook de fysieke plek moet toegankelijk zijn:
 - aangepast materiaal: groot scherm, contrastrijk toetsenbord, alternatieve muis, hoofdtelefoon;
 - medewerkers die de toegankelijkheidsinstellingen kennen.
 
-Zie `kennis/07-digipunten.md`.
+Zie [kennis/07-digipunten.md](./07-digipunten.md).
 
 ## 12. Veelgemaakte fouten
 
@@ -321,4 +330,4 @@ Zie `kennis/07-digipunten.md`.
 - [ ] Is er een klachtenprocedure met termijn en opvolging?
 - [ ] Meten we toegankelijkheid jaarlijks?
 
-**Verder lezen:** `kennis/04-beleid-en-regelgeving.md`, `materiaal/toegankelijkheidschecklist.md`, skill `toegankelijkheidsaudit`.
+**Verder lezen:** [kennis/04-beleid-en-regelgeving.md](./04-beleid-en-regelgeving.md), [materiaal/toegankelijkheidschecklist.md](../materiaal/toegankelijkheidschecklist.md), skill `toegankelijkheidsaudit`.

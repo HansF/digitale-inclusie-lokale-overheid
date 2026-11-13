@@ -1,3 +1,22 @@
+---
+type: kennisdocument
+title: "Beleid en regelgeving"
+description: "Het Vlaamse en lokale beleidskader, de relevante decreten en de subsidievoorwaarden die je moet kennen voor je een nota schrijft."
+tags: [beleid, regelgeving, decreet]
+stale_after: 2027-06-30T00:00:00Z
+sources:
+  - resource: "https://www.mediawijs.be/nl/beleidstoollokalebesturen"
+  - resource: "https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/horizontaal-gelijkekansenbeleidsplan-2025-2029-doelstellingenkader-en-omgevingsanalyse"
+  - resource: "https://www.vlaanderen.be/digitaal-vlaanderen/vlaamse-digitale-strategie/digitale-strategie-voor-vlaanderen"
+  - resource: "https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/vlaams-actieplan-veilig-online-voor-de-periode-2026-2029"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusiebeleid-vlaanderen"
+  - resource: "https://www.mediawijs.be/nl/dossiers/inclusion-design"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusie-de-meerjarenplannen"
+  - resource: "https://www.vvsg.be/themas/samenleven-en-beleven/diversiteit-en-gelijke-kansen/digitale-inclusie/netwerk-en-events"
+  - resource: "https://www.vlaanderen.be/inclusie/toegankelijkheid-e-inclusie/e-inclusie"
+  - resource: "https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal"
+---
+
 # 04 — Beleid en regelgeving
 
 Dit document geeft het Vlaamse en lokale beleidskader weer. Het is geen juridisch naslagwerk: controleer wetteksten, besluiten en subsidievoorwaarden altijd bij de officiële bron.

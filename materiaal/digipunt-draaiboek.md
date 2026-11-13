@@ -1,3 +1,10 @@
+---
+type: draaiboek
+title: "Digipunt-draaiboek"
+description: "Van idee tot werking in vier fasen, met per fase de beslissingen, documenten en afspraken."
+tags: [digipunt, draaiboek, implementatie]
+---
+
 # Digipunt-draaiboek — van idee tot werking
 
 Dit draaiboek begeleidt je stap voor stap bij het opzetten van een digipunt. Het is opgebouwd in vier fasen en bevat per fase de beslissingen, documenten en afspraken die je nodig hebt.
@@ -175,7 +182,7 @@ Dit draaiboek begeleidt je stap voor stap bij het opzetten van een digipunt. Het
 | :--- | :--- | :--- | :--- | :--- |
 | | | | | |
 
-Zie `materiaal/communicatieplan-digistarters.md`.
+Zie [materiaal/communicatieplan-digistarters.md](./communicatieplan-digistarters.md).
 
 ---
 
@@ -348,4 +355,4 @@ Noteer wekelijks:
 
 ---
 
-**Verder lezen:** `kennis/07-digipunten.md`, `kennis/08-digihelpers.md`, `materiaal/digihelper-profiel-en-vacature.md`, `materiaal/uitleendienst-reglement-en-contract.md`, skill `digipunt-opzetten`.
+**Verder lezen:** [kennis/07-digipunten.md](../kennis/07-digipunten.md), [kennis/08-digihelpers.md](../kennis/08-digihelpers.md), [materiaal/digihelper-profiel-en-vacature.md](./digihelper-profiel-en-vacature.md), [materiaal/uitleendienst-reglement-en-contract.md](./uitleendienst-reglement-en-contract.md), skill `digipunt-opzetten`.

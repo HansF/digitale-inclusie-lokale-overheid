@@ -1,3 +1,62 @@
+---
+type: bronnenregister
+title: "Bronnen"
+description: "Bronnenregister met URL en peildatum per thema, plus de grens van wat deze kennisbank niet is."
+tags: [bronnen, peildatum]
+stale_after: 2027-03-31T00:00:00Z
+sources:
+  - resource: "https://www.mediawijs.be/nl/dossiers/digitale-inclusie"
+  - resource: "https://www.mediawijs.be/nl/voor-jouw-sector/digitale-inclusie-voor-lokale-besturen-en-lokale-organisaties"
+  - resource: "https://www.mediawijs.be/nl/beleidstoollokalebesturen"
+  - resource: "https://www.mediawijs.be/nl/artikels/wat-digitale-inclusie"
+  - resource: "https://www.mediawijs.be/nl/artikels/wat-de-digitale-kloof-en-wat-het-verschil-met-digitale-uitsluiting"
+  - resource: "https://www.mediawijs.be/nl/artikels/wie-kwetsbaar-voor-digitale-uitsluiting"
+  - resource: "https://www.mediawijs.be/nl/cijfersdigitaleinclusie"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusie-de-meerjarenplannen"
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusiebeleid-vlaanderen"
+  - resource: "https://www.mediawijs.be/nl/dossiers/inclusion-design"
+  - resource: "https://www.mediawijs.be/nl/digihelper"
+  - resource: "https://www.mediawijs.be/nl/digicheck"
+  - resource: "https://www.mediawijs.be/nl/vrijwilligedigihelpers"
+  - resource: "https://www.mediawijs.be/nl/een-succesvol-digipunt-organiseren"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-organiseer-je-een-digipunt"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-bouw-je-een-sterk-aanbod-je-digipunt"
+  - resource: "https://www.mediawijs.be/nl/artikels/wie-zet-je-als-digihelper-een-digipunt"
+  - resource: "https://www.mediawijs.be/nl/artikels/een-geschikte-plek-voor-je-digipunt-5-tips"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-maak-je-je-digipunt-toegankelijk-voor-iedereen"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-kan-je-meer-digistarters-bereiken"
+  - resource: "https://www.mediawijs.be/nl/artikels/hoe-zet-je-een-uitleendienst-voor-digitale-toestellen-op"
+  - resource: "https://www.mediawijs.be/nl/betaalbaar-internet"
+  - resource: "https://www.mediawijs.be/nl/toolbox-mensgericht-ontwerpen"
+  - resource: "https://assets.mediawijs.be/2026-04/2026_Mediawijs_Rapport_Digitale_inclusie_in_de_meerjarenplannen.pdf"
+  - resource: "https://www.vlaanderen.be/inclusie/toegankelijkheid-e-inclusie/e-inclusie"
+  - resource: "https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/horizontaal-gelijkekansenbeleidsplan-2025-2029-doelstellingenkader-en-omgevingsanalyse"
+  - resource: "https://www.vlaanderen.be/digitaal-vlaanderen/vlaamse-digitale-strategie/digitale-strategie-voor-vlaanderen"
+  - resource: "https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/vlaams-actieplan-veilig-online-voor-de-periode-2026-2029"
+  - resource: "https://www.vlaanderen.be/inclusie/digitale-inclusie/wetenschappelijke-monitoring-en-onderzoek-ikv-het-actieplan-iedereen-digitaal"
+  - resource: "https://www.vlaanderen.be/publicaties/evaluatiestudie-naar-de-werking-en-impact-van-digibanken"
+  - resource: "https://www.vlaanderen.be"
+  - resource: "https://www.imec.be/nl/kennisuitwisseling/techmeters/digimeter/imecdigimeter-2025"
+  - resource: "https://kbs-frb.be/nl/barometer-digitale-inclusie-2026"
+  - resource: "https://www.apenstaartjaren.be"
+  - resource: "https://assets.vlaanderen.be/image/upload/v1736166727/repositories-prd/Rapport_De_opkomst_van_digitale_inclusiebeleid_in_Belgi%C3%AB_tussen_2020_en_2024_nuh37d.pdf"
+  - resource: "https://www.w3.org/TR/WCAG22/"
+  - resource: "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
+  - resource: "https://www.gegevensbeschermingsautoriteit.be"
+  - resource: "https://www.vlaanderen.be/toegankelijkheid"
+  - resource: "https://www.anysurfer.be"
+  - resource: "https://www.diax.be"
+  - resource: "https://www.vvsg.be/themas/samenleven-en-beleven/diversiteit-en-gelijke-kansen/digitale-inclusie/netwerk-en-events"
+  - resource: "https://www.mediawijs.be"
+  - resource: "https://www.ligo.be"
+  - resource: "https://www.saamo.be"
+  - resource: "https://www.netwerktegenarmoede.be"
+  - resource: "https://www.vlaanderenvrijwilligt.be"
+  - resource: "https://kbs-frb.be"
+  - resource: "https://www.inter.vlaanderen"
+  - resource: "https://www.modem.be"
+---
+
 # 14 — Bronnen
 
 Deze kennisbank is samengesteld op basis van publiek beschikbare bronnen. Hieronder vind je de belangrijkste bronnen per thema, met URL en peildatum waar relevant.
@@ -115,7 +174,7 @@ Deze kennisbank bevat geen lokale cijfers. Die verzamel je zelf:
 - **loketdata** — vragen, klachten, doorverwijzingen;
 - **bevragingen** bij inwoners en medewerkers.
 
-Zie `materiaal/00-meting-digitale-inclusie.md`.
+Zie [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md).
 
 ## 7. Hoe verwijzen?
 
@@ -133,7 +192,7 @@ Zie `materiaal/00-meting-digitale-inclusie.md`.
 
 ### In een rapport
 
-> “Voor de cijfers verwijzen we naar `kennis/02-cijfers-en-onderzoek.md`, dat op zijn beurt verwijst naar Digimeter 2025 en de Barometer Digitale Inclusie 2026.”
+> “Voor de cijfers verwijzen we naar [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md), dat op zijn beurt verwijst naar Digimeter 2025 en de Barometer Digitale Inclusie 2026.”
 
 ## 8. Wat deze kennisbank niet is
 
@@ -152,4 +211,4 @@ Zie `materiaal/00-meting-digitale-inclusie.md`.
 
 ---
 
-**Terug naar:** `README.md` · `kennis/00-startHier.md`
+**Terug naar:** `README.md` · [kennis/00-startHier.md](./00-startHier.md)

@@ -1,4 +1,5 @@
 ---
+type: skill
 name: communicatieplan-digitale-inclusie
 license: CC-BY-NC-SA-4.0
 description: Maak een communicatieplan om digistarters te bereiken en digitale inclusie zichtbaar te maken: doelen, doelgroepen, boodschappen, kanalen, klare taal en meting. Gebruik wanneer iemand vraagt "maak een communicatieplan", "hoe bereiken we digistarters", "onze campagne werkt niet" of "hoe communiceren we over ons digipunt".

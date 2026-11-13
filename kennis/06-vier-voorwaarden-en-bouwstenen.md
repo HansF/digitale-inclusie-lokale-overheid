@@ -1,3 +1,13 @@
+---
+type: kennisdocument
+title: "De vier voorwaarden en de vijf bouwstenen"
+description: "De twee modellen van de kennisbank en hoe je ze gebruikt in een gesprek, een canvas of een beleidsnota."
+tags: [modellen, bouwstenen, voorwaarden]
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/wat-digitale-inclusie"
+  - resource: "https://www.mediawijs.be/nl/beleidstoollokalebesturen"
+---
+
 # 06 — De vier voorwaarden en de vijf bouwstenen
 
 Deze kennisbank gebruikt twee modellen die elkaar aanvullen:
@@ -204,7 +214,7 @@ Dit is geen volledig beleid, maar het is **zichtbaar, meetbaar en verdedigbaar**
 
 ## 8. Oefening: bouw je eigen bouwstenen-canvas
 
-Vul `materiaal/bouwstenen-canvas.md` in. Voor elke categorie:
+Vul [materiaal/bouwstenen-canvas.md](../materiaal/bouwstenen-canvas.md) in. Voor elke categorie:
 
 1. Wat doen we al?
 2. Wat ontbreekt?
@@ -212,4 +222,4 @@ Vul `materiaal/bouwstenen-canvas.md` in. Voor elke categorie:
 4. Wat is de volgende stap?
 5. Hoe meten we het?
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `kennis/07-digipunten.md`, `kennis/09-toegankelijke-dienstverlening.md`, `materiaal/beleids-en-actieplan-template.md`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](./05-lokale-regierol.md), [kennis/07-digipunten.md](./07-digipunten.md), [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md), [materiaal/beleids-en-actieplan-template.md](../materiaal/beleids-en-actieplan-template.md).

@@ -1,3 +1,12 @@
+---
+type: kennisdocument
+title: "De lokale regierol"
+description: "Wat de regierol van een lokaal bestuur inhoudt: netwerkregie, beslissingsruimte, instrumenten en veelgemaakte fouten."
+tags: [regierol, governance, netwerk]
+sources:
+  - resource: "https://www.mediawijs.be/nl/beleidstoollokalebesturen"
+---
+
 # 05 — De lokale regierol
 
 Digitale inclusie vraagt meer dan losse initiatieven. Een lokaal bestuur heeft een **regierol**: het brengt partners samen, bepaalt richting, zorgt voor continuïteit en maakt keuzes zichtbaar in budget en beleid.
@@ -54,7 +63,7 @@ Digitale inclusie is een **netwerkopdracht**. Breng intern en extern de juiste a
 | :--- | :--- |
 | Burgerzaken, OCMW, welzijn, bibliotheek, cultuur, jeugd, onderwijs, communicatie, ICT, personeel, financiën, patrimonium | Bibliotheek, Ligo, SAAMO, CAW, digibank, kringwinkel, scholen, verenigingen, huisartsen, werkgevers, VDAB, integratieagentschap, vrijwilligersorganisaties |
 
-**Netwerkanalyse:** breng in kaart wie actief is, wie welke doelgroep bereikt, waar hiaten zitten en wie je nog niet betrokken hebt. Gebruik `materiaal/stakeholder-en-netwerkanalyse.md`.
+**Netwerkanalyse:** breng in kaart wie actief is, wie welke doelgroep bereikt, waar hiaten zitten en wie je nog niet betrokken hebt. Gebruik [materiaal/stakeholder-en-netwerkanalyse.md](../materiaal/stakeholder-en-netwerkanalyse.md).
 
 **Belangrijk:** een netwerk is geen verzendlijst. Het vraagt overleg, afspraken, wederkerigheid en een gedeelde agenda.
 
@@ -81,7 +90,7 @@ Regie zonder gebruikers is sturen op aannames. Voed je beleid met:
 
 - gesprekken met **digistarters** zelf;
 - gesprekken met **intermediairs** (maatschappelijk werkers, leerkrachten, huisartsen, bibliotheekmedewerkers);
-- **cijfers** uit `kennis/02-cijfers-en-onderzoek.md` en lokale data;
+- **cijfers** uit [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md) en lokale data;
 - **observatie** in digipunten en aan het loket;
 - **gebruikerstesten** van je eigen digitale diensten.
 
@@ -140,7 +149,7 @@ Een lokaal bestuur is niet alleen regisseur, maar ook **dienstverlener**. Dat ge
 - test met **echte gebruikers**, inclusief digistarters en mensen met een beperking;
 - voorzie een **hersteltermijn** en een **opleiding** bij oplevering.
 
-Zie `kennis/09-toegankelijke-dienstverlening.md`.
+Zie [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md).
 
 ## 5. Regie over partners en derden
 
@@ -168,7 +177,7 @@ Zorg minstens voor:
 - **indicatoren** die je jaarlijks opvolgt;
 - een **trekker** met uren en mandaat.
 
-Onderzoek van Mediawijs (2026) toont dat **87,4%** van de lokale besturen digitale inclusie vermeldt in het meerjarenplan, maar dat slechts **48,8%** een budget voorziet voor acties die enkel over digitale inclusie gaan. Zie `kennis/02-cijfers-en-onderzoek.md`.
+Onderzoek van Mediawijs (2026) toont dat **87,4%** van de lokale besturen digitale inclusie vermeldt in het meerjarenplan, maar dat slechts **48,8%** een budget voorziet voor acties die enkel over digitale inclusie gaan. Zie [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md).
 
 ### Jaarbudget en budgetcyclus
 
@@ -204,4 +213,4 @@ Onderzoek van Mediawijs (2026) toont dat **87,4%** van de lokale besturen digita
 - [ ] Betrek ik digistarters bij de evaluatie?
 - [ ] Rapporteer ik jaarlijks aan college en raad?
 
-**Verder lezen:** `kennis/06-vier-voorwaarden-en-bouwstenen.md`, `materiaal/stakeholder-en-netwerkanalyse.md`, `materiaal/raadsvoorstel-template.md`.
+**Verder lezen:** [kennis/06-vier-voorwaarden-en-bouwstenen.md](./06-vier-voorwaarden-en-bouwstenen.md), [materiaal/stakeholder-en-netwerkanalyse.md](../materiaal/stakeholder-en-netwerkanalyse.md), [materiaal/raadsvoorstel-template.md](../materiaal/raadsvoorstel-template.md).

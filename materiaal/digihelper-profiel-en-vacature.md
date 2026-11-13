@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Digihelper: profiel, vacature en afsprakennota"
+description: "Drie bruikbare stukken om digihelpers te werven, te selecteren en duidelijke afspraken vast te leggen."
+tags: [digihelpers, werving, sjabloon]
+---
+
 # Digihelper — profiel, vacature en afsprakennota
 
 Dit document bevat drie bruikbare onderdelen:
@@ -260,4 +267,4 @@ De organisatie voorziet in een verzekering burgerlijke aansprakelijkheid voor de
 
 ---
 
-**Verder lezen:** `kennis/08-digihelpers.md`, `kennis/07-digipunten.md`, `materiaal/digipunt-draaiboek.md`, skill `digihelper-werking`.
+**Verder lezen:** [kennis/08-digihelpers.md](../kennis/08-digihelpers.md), [kennis/07-digipunten.md](../kennis/07-digipunten.md), [materiaal/digipunt-draaiboek.md](./digipunt-draaiboek.md), skill `digihelper-werking`.

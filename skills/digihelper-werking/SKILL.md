@@ -1,4 +1,5 @@
 ---
+type: skill
 name: digihelper-werking
 license: CC-BY-NC-SA-4.0
 description: Zet een digihelperwerking op of verbeter ze: profielen, werving, selectie, opleiding, omkadering, afspraken en opvolging. Gebruik wanneer iemand vraagt "hoe werf ik digihelpers", "hoe leid ik vrijwilligers op", "ons team helpers valt uit" of "maak een afsprakennota".

@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "KPI- en monitoringskader"
+description: "Sjabloon voor een minimale set indicatoren met definities, bronnen en een rapportageritme."
+tags: [monitoring, kpi, sjabloon]
+---
+
 # KPI- en monitoringskader — sjabloon
 
 Dit sjabloon helpt je een **eenvoudig, bruikbaar monitoringssysteem** op te zetten voor digitale inclusie. Het vertrekt van je doelen, kiest een minimale set indicatoren en legt vast wie wat meet.
@@ -211,4 +218,4 @@ Maak een **één-pagina-overzicht** dat je maandelijks bijwerkt.
 
 ---
 
-**Verder lezen:** `kennis/11-monitoring-en-impact.md`, `materiaal/00-meting-digitale-inclusie.md`, `materiaal/raadsvoorstel-template.md`.
+**Verder lezen:** [kennis/11-monitoring-en-impact.md](../kennis/11-monitoring-en-impact.md), [materiaal/00-meting-digitale-inclusie.md](./00-meting-digitale-inclusie.md), [materiaal/raadsvoorstel-template.md](./raadsvoorstel-template.md).

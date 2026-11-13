@@ -1,4 +1,5 @@
 ---
+type: skill
 name: e-inclusie-businesscase
 license: CC-BY-NC-SA-4.0
 description: Bouw een onderbouwde businesscase of kostenraming voor digitale inclusie: eenmalige en structurele kosten, baten, financieringsmix, risico's en beslissingsvraag. Gebruik wanneer iemand vraagt "wat kost een digipunt", "maak een businesscase", "hoe financieren we dit", "welke subsidie" of "verantwoord dit budget".

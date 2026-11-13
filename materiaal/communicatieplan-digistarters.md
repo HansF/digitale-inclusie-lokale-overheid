@@ -1,3 +1,10 @@
+---
+type: sjabloon
+title: "Communicatieplan voor digistarters"
+description: "Sjabloon dat van de doelgroep vertrekt: boodschap, kanalen, klare taal, momenten en een eenvoudige meting."
+tags: [communicatie, digistarters, sjabloon]
+---
+
 # Communicatieplan voor digistarters — sjabloon
 
 Dit sjabloon helpt je om je aanbod bekend te maken bij de mensen die het nodig hebben. Het vertrekt niet van je kanalen, maar van je **doelgroep**: waar zijn ze, wie vertrouwen ze, en wat hebben ze nodig om de stap te zetten?
@@ -254,4 +261,4 @@ Vragen? Bel [nummer].
 
 ---
 
-**Verder lezen:** `kennis/03-doelgroepen.md`, `kennis/09-toegankelijke-dienstverlening.md`, skill `communicatieplan-digitale-inclusie`.
+**Verder lezen:** [kennis/03-doelgroepen.md](../kennis/03-doelgroepen.md), [kennis/09-toegankelijke-dienstverlening.md](../kennis/09-toegankelijke-dienstverlening.md), skill `communicatieplan-digitale-inclusie`.

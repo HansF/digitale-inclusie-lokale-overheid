@@ -1,4 +1,5 @@
 ---
+type: skill
 name: doelgroepanalyse-en-outreach
 license: CC-BY-NC-SA-4.0
 description: Breng prioritaire doelgroepen in kaart en bouw een outreachplan om digistarters te bereiken via vindplaatsen, toeleiders en communicatie. Gebruik wanneer iemand vraagt "wie bereiken we niet", "hoe vinden we digistarters", "maak een doelgroepanalyse" of "onze campagne bereikt de juiste mensen niet".

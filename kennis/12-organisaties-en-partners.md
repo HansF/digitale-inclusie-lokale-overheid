@@ -1,3 +1,17 @@
+---
+type: kennisdocument
+title: "Organisaties en partners"
+description: "Overzicht van de Vlaamse organisaties die een rol spelen in digitale inclusie, wat ze doen en wanneer je ze betrekt."
+tags: [partners, netwerk, samenwerking]
+sources:
+  - resource: "https://www.mediawijs.be"
+  - resource: "https://www.vvsg.be"
+  - resource: "https://www.vlaanderen.be"
+  - resource: "https://www.digitaal.vlaanderen"
+  - resource: "https://www.ligo.be"
+  - resource: "https://www.saamo.be"
+---
+
 # 12 — Organisaties en partners
 
 Digitale inclusie is een netwerkopdracht. Dit document geeft een overzicht van de organisaties die in Vlaanderen een rol spelen, wat ze doen en hoe je ze kan betrekken. Het is geen exhaustive lijst, maar een **startpunt voor je netwerkanalyse**.
@@ -204,7 +218,7 @@ Leg vast:
 - **eigendom** van materiaal en data;
 - **beëindiging**.
 
-Gebruik `materiaal/leveranciers-en-partners.md` en `materiaal/stakeholder-en-netwerkanalyse.md`.
+Gebruik [materiaal/leveranciers-en-partners.md](../materiaal/leveranciers-en-partners.md) en [materiaal/stakeholder-en-netwerkanalyse.md](../materiaal/stakeholder-en-netwerkanalyse.md).
 
 ## 6. Een netwerkanalyse maken
 
@@ -261,4 +275,4 @@ Gebruik `materiaal/leveranciers-en-partners.md` en `materiaal/stakeholder-en-net
 - [ ] Evalueer ik de samenwerking jaarlijks?
 - [ ] Heb ik een exitstrategie per samenwerking?
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `materiaal/stakeholder-en-netwerkanalyse.md`, `materiaal/leveranciers-en-partners.md`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](./05-lokale-regierol.md), [materiaal/stakeholder-en-netwerkanalyse.md](../materiaal/stakeholder-en-netwerkanalyse.md), [materiaal/leveranciers-en-partners.md](../materiaal/leveranciers-en-partners.md).

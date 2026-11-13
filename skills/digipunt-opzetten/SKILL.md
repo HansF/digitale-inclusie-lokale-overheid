@@ -1,4 +1,5 @@
 ---
+type: skill
 name: digipunt-opzetten
 license: CC-BY-NC-SA-4.0
 description: Ontwerp en plan een digipunt of fysieke digitale ondersteuningsplek, van locatiekeuze tot bemensing, aanbod, toeleiding en kwaliteit. Gebruik wanneer iemand vraagt "we willen een digipunt", "hoe start ik een digipunt", "verbeter ons digipunt" of "zet een computerruimte op".

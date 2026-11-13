@@ -1,4 +1,5 @@
 ---
+type: skill
 name: digitale-inclusie-scan
 license: CC-BY-NC-SA-4.0
 description: Voer een snelle, onderbouwde nulmeting uit van digitale inclusie in een stad, gemeente, OCMW, bibliotheek of lokale organisatie. Gebruik wanneer iemand vraagt "waar staan we", "maak een nulmeting", "breng onze werking in kaart" of "welke hiaten hebben we".

@@ -1,3 +1,13 @@
+---
+type: kennisdocument
+title: "Financiering en subsidies"
+description: "Kostenstructuren, financieringsmix en subsidiekanalen voor digitale inclusie, met aandachtspunten voor de eigen begroting."
+tags: [financiering, subsidies, budget]
+stale_after: 2027-03-31T00:00:00Z
+sources:
+  - resource: "https://www.mediawijs.be/nl/artikels/digitale-inclusiebeleid-vlaanderen"
+---
+
 # 10 — Financiering en subsidies
 
 Digitale inclusie is geen gratis beleidsterrein. Personeel, huisvesting, toestellen, onderhoud, vorming en communicatie kosten geld. Dit document helpt je om **kosten te begrijpen, financiering te vinden en een businesscase te maken** — zonder te vervallen in onrealistische beloftes.
@@ -215,4 +225,4 @@ Personeel is de grootste kost en het moeilijkst te financieren met projectmiddel
 - [ ] Heb ik de beslissingstermijn van mijn bestuur ingepland?
 - [ ] Heb ik de kost van niet-handelen benoemd?
 
-**Verder lezen:** `kennis/05-lokale-regierol.md`, `kennis/11-monitoring-en-impact.md`, `materiaal/raadsvoorstel-template.md`, skill `e-inclusie-businesscase`.
+**Verder lezen:** [kennis/05-lokale-regierol.md](./05-lokale-regierol.md), [kennis/11-monitoring-en-impact.md](./11-monitoring-en-impact.md), [materiaal/raadsvoorstel-template.md](../materiaal/raadsvoorstel-template.md), skill `e-inclusie-businesscase`.

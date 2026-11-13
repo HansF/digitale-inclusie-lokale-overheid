@@ -1,3 +1,10 @@
+---
+type: kennisdocument
+title: "Monitoring en impact"
+description: "Een eenvoudig monitoringssysteem: doelen, indicatoren, meetmethoden, rapportage en impactmeting."
+tags: [monitoring, indicatoren, impact]
+---
+
 # 11 — Monitoring en impact
 
 Je kan digitale inclusie niet sturen als je niet weet wat je bereikt. Dit document helpt je om **een eenvoudig, geloofwaardig monitoringssysteem** op te zetten: wat je meet, hoe je het meet, en hoe je het gebruikt om bij te sturen.
@@ -135,7 +142,7 @@ Zonder nulmeting weet je niet of je vooruitgaat.
 - **Bevraging** — bij bezoekers en medewerkers.
 - **Data** — bestaande statistieken en registraties.
 
-Gebruik `materiaal/00-meting-digitale-inclusie.md`.
+Gebruik [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md).
 
 **Tip:** een eenvoudige nulmeting met 10 interviews en 5 databronnen is vaak waardevoller dan een dure bevraging met lage respons.
 
@@ -234,4 +241,4 @@ Vergelijk groepen, locaties of periodes. Wees voorzichtig met causaliteit: ander
 - [ ] Koppel ik elke rapportage aan een beslissing of ask?
 - [ ] Heb ik mijn DPO betrokken?
 
-**Verder lezen:** `kennis/02-cijfers-en-onderzoek.md`, `materiaal/00-meting-digitale-inclusie.md`, `materiaal/kpi-en-monitoringskader.md`, skill `digitale-inclusie-scan`.
+**Verder lezen:** [kennis/02-cijfers-en-onderzoek.md](./02-cijfers-en-onderzoek.md), [materiaal/00-meting-digitale-inclusie.md](../materiaal/00-meting-digitale-inclusie.md), [materiaal/kpi-en-monitoringskader.md](../materiaal/kpi-en-monitoringskader.md), skill `digitale-inclusie-scan`.
