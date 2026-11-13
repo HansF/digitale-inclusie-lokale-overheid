@@ -60,6 +60,8 @@ De aanpak vervangt de vijf bouwsteencategorieën niet. Ze is de **horizontale sn
 
 De volgorde is niet vrijblijvend. Wie stap 2 overslaat en meteen oplossingen bedenkt, verbetert het loket en laat de keten stuk.
 
+Een invulblad voor deze stappen staat in [materiaal/klantreis-canvas.md](../materiaal/klantreis-canvas.md): keten, klantreis, breekpunten, herontwerp en meting op enkele pagina's, klaar voor twee workshops.
+
 ## 4. Eén rij uit een klantreis: verhuizen
 
 Onderstaande tabel is een **voorbeeld** om de vorm te tonen, niet een beschrijving van een bestaande procedure.

@@ -2,7 +2,7 @@
 
 Een open skills-repo en kennisdatabank voor Vlaamse steden, gemeenten, OCMW's, bibliotheken, dienstencentra en lokale organisaties die digitale uitsluiting willen verminderen.
 
-Tien skills, acht AI-consultants, zeventien kennisdocumenten en twaalf werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
+Tien skills, acht AI-consultants, zeventien kennisdocumenten en dertien werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
 
 > **Peildatum: november 2026.** Cijfers, decreten en subsidieoproepen veranderen. Controleer altijd de actuele bron voor je een beslissing neemt. De volledige bronnenlijst staat in [`kennis/14-bronnen.md`](kennis/14-bronnen.md).
 
@@ -163,6 +163,7 @@ Begin bij [`kennis/index.md`](kennis/index.md) of bij [`materiaal/index.md`](mat
 | [`digihelper-profiel-en-vacature.md`](materiaal/digihelper-profiel-en-vacature.md) | Profiel, vacature en selectie |
 | [`uitleendienst-reglement-en-contract.md`](materiaal/uitleendienst-reglement-en-contract.md) | Uitleen van toestellen |
 | [`leveranciers-en-partners.md`](materiaal/leveranciers-en-partners.md) | Leveranciers en partners vergelijken |
+| [`klantreis-canvas.md`](materiaal/klantreis-canvas.md) | Invulblad om één levensgebeurtenis te doorlichten: keten, reis, breekpunten, herontwerp, meting |
 
 ## De consultants
 
@@ -212,7 +213,7 @@ digitale-inclusie-lokale-overheid/
 │   ├── index.md                  ← begin hier
 │   ├── log.md                    ← wijzigingen, nieuwste eerst
 │   └── 00-startHier.md … 16-levensgebeurtenissen.md
-├── materiaal/                   ← OKF-bundel: twaalf sjablonen en checklists
+├── materiaal/                   ← OKF-bundel: dertien sjablonen en checklists
 │   ├── index.md
 │   ├── log.md
 │   └── …

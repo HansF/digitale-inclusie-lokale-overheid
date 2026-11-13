@@ -12,6 +12,7 @@ Elke sjabloon is één concept met frontmatter. Die frontmatter is metadata voor
 - [Communicatieplan voor digistarters](./communicatieplan-digistarters.md) — Sjabloon dat van de doelgroep vertrekt: boodschap, kanalen, klare taal, momenten en een eenvoudige meting.
 - [Digihelper: profiel, vacature en afsprakennota](./digihelper-profiel-en-vacature.md) — Drie bruikbare stukken om digihelpers te werven, te selecteren en duidelijke afspraken vast te leggen.
 - [Digipunt-draaiboek](./digipunt-draaiboek.md) — Van idee tot werking in vijf fasen, met per fase de beslissingen, documenten en afspraken.
+- [Klantreis-canvas](./klantreis-canvas.md) — Invulblad om één levensgebeurtenis door te lichten: de keten, de klantreis, de breekpunten, het herontwerp en de meting.
 - [KPI- en monitoringskader](./kpi-en-monitoringskader.md) — Sjabloon voor een minimale set indicatoren met definities, bronnen en een rapportageritme.
 - [Leveranciers en partners](./leveranciers-en-partners.md) — Beoordelings- en afsprakenkader voor leveranciers en partners, met aandacht voor toegankelijkheid in bestekken.
 - [Raadsvoorstel digitale inclusie](./raadsvoorstel-template.md) — Sjabloon voor een beslissbaar raadsvoorstel of collegenota, met argumentatie, kost en risico's.

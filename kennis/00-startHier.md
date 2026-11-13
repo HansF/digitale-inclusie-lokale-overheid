@@ -98,8 +98,9 @@ De eerste vier beschrijven *wat* je kan realiseren. De vijfde beschrijft *hoe* j
 ### “We willen onze dienstverlening herontwerpen.”
 
 1. [kennis/16-levensgebeurtenissen.md](./16-levensgebeurtenissen.md)
-2. [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md)
-3. [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md)
+2. [materiaal/klantreis-canvas.md](../materiaal/klantreis-canvas.md)
+3. [kennis/09-toegankelijke-dienstverlening.md](./09-toegankelijke-dienstverlening.md)
+4. [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md)
 
 ## 4. De belangrijkste definities in één minuut
 
