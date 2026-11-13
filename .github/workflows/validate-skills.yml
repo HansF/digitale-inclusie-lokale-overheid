@@ -24,6 +24,14 @@ jobs:
       - name: Valideer de OKF-bundels
         run: python3 tests/validate_okf.py
 
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Installeer okflint
+        run: uv tool install okflint
+
+      - name: OKF-conformiteit (okflint)
+        run: okflint validate
+
       - name: Controleer dat er geen lege skillmappen zijn
         run: |
           for d in skills/*/; do

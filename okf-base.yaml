@@ -1,0 +1,46 @@
+okf_version: "0.2"
+
+base:
+  name: digitale-inclusie-lokale-overheid
+  roots:
+    - path: kennis/
+    - path: materiaal/
+  reserved_files:
+    index: index.md
+    log: log.md
+  link_resolution:
+    external_refs:
+      - https://
+      - http://
+      - mailto:
+
+profile:
+  date_fields: []
+  types:
+    kennisdocument:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+    bronnenregister:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+    sjabloon:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+    canvas:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+    draaiboek:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+    checklist:
+      required: [type, title, description]
+      optional: [tags, sources, stale_after, generated, verified, status]
+
+hygiene:
+  broken_links: error
+  reserved_files: error
+  unknown_fields: off
+  okf_v02_shapes: error
+  legacy_forms: error
+  stale_content: warn
+  split_candidates: off

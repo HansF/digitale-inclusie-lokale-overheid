@@ -2,7 +2,7 @@
 
 Een open skills-repo en kennisdatabank voor Vlaamse steden, gemeenten, OCMW's, bibliotheken, dienstencentra en lokale organisaties die digitale uitsluiting willen verminderen.
 
-Negen skills, acht AI-consultants, vijftien kennisdocumenten en twaalf werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
+Tien skills, acht AI-consultants, vijftien kennisdocumenten en twaalf werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
 
 > **Peildatum: november 2026.** Cijfers, decreten en subsidieoproepen veranderen. Controleer altijd de actuele bron voor je een beslissing neemt. De volledige bronnenlijst staat in [`kennis/14-bronnen.md`](kennis/14-bronnen.md).
 
@@ -28,7 +28,7 @@ Deze skills leveren per probleem een concreet, beslisbaar document — geen alge
 
 ---
 
-## De negen skills
+## De tien skills
 
 | Skill | Waarvoor | Wat je krijgt |
 | :--- | :--- | :--- |
@@ -41,6 +41,7 @@ Deze skills leveren per probleem een concreet, beslisbaar document — geen alge
 | [`communicatieplan-digitale-inclusie`](skills/communicatieplan-digitale-inclusie/SKILL.md) | Een communicatieplan dat mensen doet komen | Boodschappentabel, kanalenmix, planning, meetplan, voorbeeldmateriaal |
 | [`e-inclusie-businesscase`](skills/e-inclusie-businesscase/SKILL.md) | Kosten, baten en financiering verdedigen | Businesscase, kostenraming, financieringsmix, verankerings- en exitstrategie |
 | [`toegankelijkheidsaudit`](skills/toegankelijkheidsaudit/SKILL.md) | Website, formulier, app of loket testen op WCAG 2.2 AA | Auditrapport met bewijs, prioriteitenlijst, herstelplan, concept verklaring |
+| [`okf-kennisbundel`](skills/okf-kennisbundel/SKILL.md) | De kennisbank uitbreiden zonder de structuur te breken | Concept met frontmatter, bronnen, bijgewerkte index en log, groene validatie |
 
 Elke skill volgt dezelfde opbouw: wanneer gebruiken, welke inputs je nodig hebt, de stappen, de output, een kwaliteitscheck en de veelgemaakte fouten.
 
@@ -186,8 +187,9 @@ digitale-inclusie-lokale-overheid/
 ├── README.md                     ← je bent hier
 ├── AGENTS.md                     ← werkafspraken voor AI-consultants
 ├── LICENSE                       ← CC BY-NC-SA 4.0
+├── okf-base.yaml                 ← bundelmanifest voor okflint
 ├── opencode.json                 ← registreert skills/ als skillbron
-├── skills/                       ← negen skills, elk met een SKILL.md
+├── skills/                       ← tien skills, elk met een SKILL.md
 │   ├── digitale-inclusie-scan/
 │   ├── beleidsplan-digitale-inclusie/
 │   ├── meerjarenplan-analyse/

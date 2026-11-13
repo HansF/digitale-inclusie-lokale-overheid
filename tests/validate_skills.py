@@ -27,6 +27,14 @@ SKILLS_DIR = ROOT / "skills"
 NAME_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 
+FENCE_RE = re.compile(r"```.*?```", re.S)
+CODE_SPAN_RE = re.compile(r"`[^`\n]*`")
+
+
+def strip_code(text: str) -> str:
+    """Haal codeblokken en inline code weg: daarin staan geen echte links."""
+    return CODE_SPAN_RE.sub("", FENCE_RE.sub("", text))
+
 REQUIRED_KEYS = ("name", "description", "license")
 MAX_NAME_LEN = 64
 MAX_DESCRIPTION_LEN = 1024
@@ -77,7 +85,7 @@ def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
 
 def check_links(where: str, path: Path, body: str, result: Result) -> None:
     """Controleer relatieve links. Paden mogen vanaf de skillmap of de repo-root lopen."""
-    for target in LINK_RE.findall(body):
+    for target in LINK_RE.findall(strip_code(body)):
         target = target.split("#", 1)[0].strip()
         if not target or "://" in target or target.startswith(("mailto:", "#")):
             continue

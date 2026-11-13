@@ -29,6 +29,14 @@ ROOT = Path(__file__).resolve().parent.parent
 BUNDLES = ("kennis", "materiaal")
 RESERVED = ("index.md", "log.md")
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+
+FENCE_RE = re.compile(r"```.*?```", re.S)
+CODE_SPAN_RE = re.compile(r"`[^`\n]*`")
+
+
+def strip_code(text: str) -> str:
+    """Haal codeblokken en inline code weg: daarin staan geen echte links."""
+    return CODE_SPAN_RE.sub("", FENCE_RE.sub("", text))
 DATE_HEADING_RE = re.compile(r"^## (\d{4}-\d{2}-\d{2})$", re.M)
 
 
@@ -92,7 +100,7 @@ def source_entries(front: str) -> list[dict[str, str]]:
 
 
 def check_links(where: str, path: Path, body: str, result: Result) -> None:
-    for target in LINK_RE.findall(body):
+    for target in LINK_RE.findall(strip_code(body)):
         target = target.split("#", 1)[0].strip()
         if not target or "://" in target or target.startswith(("mailto:", "#")):
             continue
