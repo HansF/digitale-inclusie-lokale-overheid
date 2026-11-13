@@ -1,0 +1,9 @@
+# Werkbestanden: lokale concepten en brongebruik horen niet in de publieke repo
+output/
+*.pdf
+
+# Systeem en tooling
+.DS_Store
+node_modules/
+.venv/
+__pycache__/

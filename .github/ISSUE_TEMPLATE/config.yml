@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Vraag over digitale inclusie
+    url: https://github.com/HansF/digitale-inclusie-lokale-overheid/discussions
+    about: Gebruik de discussies voor vragen en ervaringen, niet de issue tracker.
