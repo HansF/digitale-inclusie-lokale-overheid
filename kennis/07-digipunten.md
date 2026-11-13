@@ -69,6 +69,8 @@ Kies een **vindplaatsgerichte** locatie: een plek waar je doelgroep al komt.
 
 Een digipunt hoeft geen vaste locatie te hebben. Een **mobiel digipunt** (marktstand, bakfiets, bus) of **huisbezoeken** bereiken mensen die niet naar een locatie komen.
 
+**Maak je digipunt herkenbaar.** Mediawijs en VVSG hebben een gratis **digipunthuisstijl**: logo, kleuren, lettertypen, boodschap en een flyer, vrijblijvend te gebruiken door lokale besturen en organisaties. Wie hetzelfde logo gebruikt, wordt door bezoekers herkend als een plek waar ze terechtkunnen. Zie [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md).
+
 ### 2.4 Digistarters
 
 Je digipunt kan nog zo goed zijn: als niemand het kent, komt er niemand. Drie toeleidingsstrategieën:

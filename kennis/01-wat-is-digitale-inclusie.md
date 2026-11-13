@@ -1,11 +1,12 @@
 ---
 type: kennisdocument
 title: "Wat is digitale inclusie?"
-description: "Definitie, de vier voorwaarden, click-call-connect, de dertien indicatoren van digitale uitsluiting en de vijf misvattingen."
+description: "Definitie, de vier voorwaarden, click-call-connect, de dertien indicatoren van digitale uitsluiting, de vijf misvattingen en een fiche over het sociaal internetaanbod."
 tags: [definitie, voorwaarden, indicatoren]
 sources:
   - resource: "https://www.mediawijs.be/nl/artikels/wat-digitale-inclusie"
   - resource: "https://www.mediawijs.be/nl/artikels/wat-de-digitale-kloof-en-wat-het-verschil-met-digitale-uitsluiting"
+  - resource: "https://www.mediawijs.be/nl/betaalbaar-internet"
   - resource: "https://www.mediawijs.be/nl/dossiers/inclusion-design"
   - resource: "https://www.mediawijs.be/nl/artikels/wie-kwetsbaar-voor-digitale-uitsluiting"
 ---
@@ -56,6 +57,38 @@ Mensen hebben een toestel en een internetverbinding nodig. Maar toegang is meer 
 - **Soort toestel** — wie enkel een smartphone heeft, kan moeilijker complexe formulieren invullen of administratie doen.
 
 **Lokale hefbomen:** sociaal internetaanbod bekendmaken, uitleendienst voor toestellen, openbare computerruimte, gratis wifi op publieke plekken, refurbished toestellen via kringwinkels of partners.
+
+#### Het sociaal internetaanbod: wat je aan de balie moet weten
+
+Per 1 maart 2024 verving de federale overheid het sociaal tarief voor telecom door het **sociaal internetaanbod**. Het is een verlaagd tarief voor vast internet (al dan niet met televisie of telefonie), aangeboden door Telenet, Proximus en VOO. VOO is niet beschikbaar in Vlaanderen.
+
+| | Telenet | Proximus | VOO (niet in Vlaanderen) |
+| :--- | :--- | :--- | :--- |
+| Volume en snelheid | 150 GB, 100 Mbps down, 10 Mbps up | 150 GB, 30 Mbps down, 4 Mbps up | 500 GB, 75 Mbps down, 4 Mbps up |
+| Maandprijs internet | € 19 | € 19 | € 19 |
+| Maandprijs met televisie | € 40 | € 40 | € 40 |
+| Eenmalige kosten | € 25 activatie en € 42,50 installatie (nieuwe klanten) | € 29,50 installatie | 50% korting op installatie |
+
+De inleidende tekst van de Mediawijs-pagina spreekt van "20 euro per maand" en "41 euro" voor de bundel met televisie; de tarieventabel eronder vermeldt € 19 en € 40. Controleer het actuele tarief altijd bij de operator voor je een bedrag in een folder zet.
+
+**Goedkoper alternatief bij Telenet:** de *Essential HighFIVE*-bundel kost € 5 per maand voor 150 GB, met 30 Mbps download en 4 Mbps upload. Wie alleen wat trager internet nodig heeft, is daarmee beter af dan met het sociaal internetaanbod. Het is een commercieel product, geen recht: het staat los van de voorwaarden hieronder en kan verdwijnen.
+
+**Wie komt in aanmerking?** Je woont in België, ontvangt nog geen sociaal tarief of sociaal internetaanbod, en behoort tot één van deze groepen:
+
+- uitkeringsgerechtigd bij het OCMW: leefloon, gelijkwaardige financiële hulp, IGO-wachtuitkering, of een tegemoetkoming als persoon met een handicap of wachtuitkering;
+- uitkeringsgerechtigd bij de FOD Sociale Zekerheid: tegemoetkomingen voor handicap of hulp aan bejaarden;
+- een specifieke ondersteuningsbehoefte of handicap met score 4 in pijler 1 van de medisch-sociale schaal;
+- uitkeringsgerechtigd bij de Federale Pensioendienst: IGO, gewaarborgd inkomen of tegemoetkoming als persoon met een handicap.
+
+Een RVT- of arbeidsongeschiktheidsuitkering geeft **geen** recht. De FOD Economie heeft een website waarop je kan controleren of iemand in aanmerking komt.
+
+**Hoe aanvragen?** Niet automatisch. De rechthebbende contacteert zelf een deelnemende operator, toont de identiteitskaart of een document met het rijksregisternummer, en kan zich na de controle binnen zeven dagen inschrijven.
+
+**De valkuil die het vaakst misloopt:** wie vóór 1 maart 2024 het oude sociaal tarief had, behoudt het zolang de situatie niet wijzigt. Verhuizen, van operator of abonnement veranderen kan dat recht doen stoppen, en het wordt **niet automatisch** omgezet naar het sociaal internetaanbod. Mensen verliezen het dus juist op het moment dat ze een verhuis of een nieuwe provider regelen — precies wanneer een loket of digipunt ernaar kan vragen.
+
+**Praktisch:** zet dit niet alleen op je website. Meld het in een brief bij een leefloondossier, in het onthaalgesprek, op de sociale dienst en in het digipunt, en geef een papieren fiche mee. Wie geen internet heeft, leest je website niet.
+
+> **Bron:** Mediawijs, *Initiatieven voor betaalbaar internet* — https://www.mediawijs.be/nl/betaalbaar-internet
 
 ### 3.2 Digitale competenties
 

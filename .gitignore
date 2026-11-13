@@ -7,3 +7,4 @@ output/
 node_modules/
 .venv/
 __pycache__/
+.obsidian/

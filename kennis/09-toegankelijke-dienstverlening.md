@@ -184,6 +184,10 @@ Formulieren zijn vaak de grootste drempel. Een goed formulier:
 
 ## 7. Websites en apps
 
+Voor je ontwerpt: **mensgericht ontwerpen** is de methode om een dienst stap voor stap te bouwen op wat gebruikers echt nodig hebben. Ze loopt in zes stappen — voorbereiden, onderzoeken, samenvatten, ontwerpen, experimenteren, overtuigen — en werkt voor digitale én fysieke dienstverlening. Mediawijs heeft er een gratis toolbox voor met activiteiten per stap; zie [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md).
+
+De regels hieronder zijn de uitkomst van zulk ontwerpwerk, niet de vervanging ervan. Een technisch conforme website die niemand snapt, is nog steeds een ontoegankelijke website.
+
 ### 7.1 Ontwerp
 
 - **Mobile first** — begin met het kleine scherm.
@@ -303,6 +307,8 @@ Ook de fysieke plek moet toegankelijk zijn:
 - privacy voor persoonlijke vragen;
 - aangepast materiaal: groot scherm, contrastrijk toetsenbord, alternatieve muis, hoofdtelefoon;
 - medewerkers die de toegankelijkheidsinstellingen kennen.
+
+Voor dat laatste bestaan tien kant-en-klare handleidingen van Mediawijs — van tekst laten voorlezen en vergroten tot de telefoon vereenvoudigen en wachtwoorden onthouden. Zie [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md).
 
 Zie [kennis/07-digipunten.md](./07-digipunten.md).
 

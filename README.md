@@ -2,7 +2,7 @@
 
 Een open skills-repo en kennisdatabank voor Vlaamse steden, gemeenten, OCMW's, bibliotheken, dienstencentra en lokale organisaties die digitale uitsluiting willen verminderen.
 
-Tien skills, acht AI-consultants, vijftien kennisdocumenten en twaalf werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
+Tien skills, acht AI-consultants, zestien kennisdocumenten en twaalf werksjablonen. Alles in het Nederlands, afgestemd op de Vlaamse regelgeving, de Beleidstool Digitale Inclusie en de bronnen van Mediawijs.
 
 > **Peildatum: november 2026.** Cijfers, decreten en subsidieoproepen veranderen. Controleer altijd de actuele bron voor je een beslissing neemt. De volledige bronnenlijst staat in [`kennis/14-bronnen.md`](kennis/14-bronnen.md).
 
@@ -143,6 +143,7 @@ Begin bij [`kennis/index.md`](kennis/index.md) of bij [`materiaal/index.md`](mat
 | [`12-organisaties-en-partners.md`](kennis/12-organisaties-en-partners.md) | Wie doet wat in Vlaanderen |
 | [`13-ai-en-digitale-inclusie.md`](kennis/13-ai-en-digitale-inclusie.md) | AI als nieuwe kloof en als hulpmiddel |
 | [`14-bronnen.md`](kennis/14-bronnen.md) | Alle bronnen met URL |
+| [`15-instrumenten-en-campagnes.md`](kennis/15-instrumenten-en-campagnes.md) | Beleidstool, toolbox mensgericht ontwerpen, DigiCheck, databank, huisstijl en Digitale Week |
 
 ### Materiaal
 
@@ -204,10 +205,10 @@ digitale-inclusie-lokale-overheid/
 ├── tests/
 │   ├── validate_skills.py        ← controle op frontmatter, naam en links
 │   └── validate_okf.py           ← OKF-conformiteit van de kennisbank
-├── kennis/                      ← OKF-bundel: vijftien kennisdocumenten
+├── kennis/                      ← OKF-bundel: zestien kennisdocumenten
 │   ├── index.md                  ← begin hier
 │   ├── log.md                    ← wijzigingen, nieuwste eerst
-│   └── 00-startHier.md … 14-bronnen.md
+│   └── 00-startHier.md … 15-instrumenten-en-campagnes.md
 ├── materiaal/                   ← OKF-bundel: twaalf sjablonen en checklists
 │   ├── index.md
 │   ├── log.md

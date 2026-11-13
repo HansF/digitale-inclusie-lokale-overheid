@@ -28,6 +28,17 @@ sources:
   - resource: "https://www.mediawijs.be/nl/artikels/hoe-zet-je-een-uitleendienst-voor-digitale-toestellen-op"
   - resource: "https://www.mediawijs.be/nl/betaalbaar-internet"
   - resource: "https://www.mediawijs.be/nl/toolbox-mensgericht-ontwerpen"
+  - resource: "https://www.mediawijs.be/en/article-overview/7-building-blocks-sustainable-e-policy"
+  - resource: "https://www.mediawijs.be/nl/databankdigitaleinclusie"
+  - resource: "https://www.mediawijs.be/nl/tools/digipunt-huisstijl"
+  - resource: "https://www.mediawijs.be/nl/digitaleweek"
+  - resource: "https://www.mediawijs.be/nl/digihelper-materialen"
+  - resource: "https://www.mediawijs.be/nl/tools/starterspakket-digihelpers-op-het-werk"
+  - resource: "https://www.mediawijs.be/nl/opleidingdigihelpersvrijetijd"
+  - resource: "https://www.mediawijs.be/nl/digistartersbereiken"
+  - resource: "https://www.mediawijs.be/nl/aandeslagalsdigihelper"
+  - resource: "https://www.mediawijs.be/nl/werk"
+  - resource: "https://www.mediawijs.be/nl/handleidingentoegankelijkheid"
   - resource: "https://assets.mediawijs.be/2026-04/2026_Mediawijs_Rapport_Digitale_inclusie_in_de_meerjarenplannen.pdf"
   - resource: "https://www.vlaanderen.be/inclusie/toegankelijkheid-e-inclusie/e-inclusie"
   - resource: "https://www.vlaanderen.be/vlaamse-regering/beslissingen-van-de-vlaamse-regering/horizontaal-gelijkekansenbeleidsplan-2025-2029-doelstellingenkader-en-omgevingsanalyse"
@@ -92,8 +103,19 @@ Mediawijs is het Vlaams Kenniscentrum Digitale en Mediawijsheid. De kennisbank g
 | Hoe maak je je digipunt toegankelijk voor iedereen? | https://www.mediawijs.be/nl/artikels/hoe-maak-je-je-digipunt-toegankelijk-voor-iedereen | 07, 09 |
 | Hoe kan je meer digistarters bereiken? | https://www.mediawijs.be/nl/artikels/hoe-kan-je-meer-digistarters-bereiken | 03, 07 |
 | Hoe zet je een uitleendienst voor digitale toestellen op? | https://www.mediawijs.be/nl/artikels/hoe-zet-je-een-uitleendienst-voor-digitale-toestellen-op | 07 |
-| Betaalbaar internet | https://www.mediawijs.be/nl/betaalbaar-internet | 01, 03 |
-| Toolbox mensgericht ontwerpen | https://www.mediawijs.be/nl/toolbox-mensgericht-ontwerpen | 09 |
+| Betaalbaar internet (sociaal internetaanbod) | https://www.mediawijs.be/nl/betaalbaar-internet | 01, 03 |
+| Toolbox mensgericht ontwerpen | https://www.mediawijs.be/nl/toolbox-mensgericht-ontwerpen | 09, 15 |
+| 7 building blocks for a sustainable e-policy | https://www.mediawijs.be/en/article-overview/7-building-blocks-sustainable-e-policy | 06, 15 |
+| Databank digitale inclusie | https://www.mediawijs.be/nl/databankdigitaleinclusie | 15 |
+| Digipunt huisstijl | https://www.mediawijs.be/nl/tools/digipunt-huisstijl | 07, 15 |
+| Digitale Week | https://www.mediawijs.be/nl/digitaleweek | 15 |
+| Digihelper materialen | https://www.mediawijs.be/nl/digihelper-materialen | 08, 15 |
+| Starterspakket digihelpers op het werk | https://www.mediawijs.be/nl/tools/starterspakket-digihelpers-op-het-werk | 08, 15 |
+| Opleiding digihelpers in de vrije tijd | https://www.mediawijs.be/nl/opleidingdigihelpersvrijetijd | 08, 15 |
+| Digistarters bereiken | https://www.mediawijs.be/nl/digistartersbereiken | 03, 15 |
+| Aan de slag als digihelper | https://www.mediawijs.be/nl/aandeslagalsdigihelper | 08, 15 |
+| Digihulp op het werk | https://www.mediawijs.be/nl/werk | 08, 15 |
+| Handleidingen digitale toegankelijkheid | https://www.mediawijs.be/nl/handleidingentoegankelijkheid | 09, 15 |
 
 ### Rapporten en PDF’s
 

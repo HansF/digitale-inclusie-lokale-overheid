@@ -90,6 +90,11 @@ De eerste vier beschrijven *wat* je kan realiseren. De vijfde beschrijft *hoe* j
 2. [materiaal/kpi-en-monitoringskader.md](../materiaal/kpi-en-monitoringskader.md)
 3. [materiaal/raadsvoorstel-template.md](../materiaal/raadsvoorstel-template.md)
 
+### “We zoeken materiaal, een instrument of een campagne.”
+
+1. [kennis/15-instrumenten-en-campagnes.md](./15-instrumenten-en-campagnes.md)
+2. [kennis/12-organisaties-en-partners.md](./12-organisaties-en-partners.md)
+
 ## 4. De belangrijkste definities in één minuut
 
 - **Digitale inclusie:** alle acties en oplossingen die nodig zijn zodat iedereen die dat wil volwaardig kan deelnemen aan de digitale samenleving.

@@ -30,12 +30,15 @@ Losse acties — een cursus hier, een laptop daar — bereiken vaak dezelfde men
 - **verantwoording** via indicatoren en budget;
 - **schaal** en duurzaamheid.
 
-De Beleidstool digitale inclusie voor lokale besturen is hierbij het referentiekader. Ze begeleidt een bestuur in vier fasen:
+De Beleidstool digitale inclusie voor lokale besturen is hierbij het referentiekader. De tool werkt in drie fasen:
 
-1. **Verkenning** — team meenemen, acties in kaart brengen, bouwstenen verkennen.
-2. **Selectie van bouwstenen** — prioriteiten bepalen op korte en lange termijn.
-3. **Uitwerken van beleids- en actieplan** — acties, timing, verantwoordelijken, doelgroep, impact.
-4. **Implementeren en verduurzamen** — finaliseren, communiceren, integreren, bijsturen.
+1. **Voorbereiding** — één persoon verdiept zich in digitale uitsluiting en inclusie, spreekt met een aantal stakeholders en brengt in kaart wat er al gebeurt.
+2. **Oefening in groep** — met de bouwstenen en het legplan bepalen de deelnemers wat haalbaar is in hun stad of gemeente. Hier komen de vier "wat"-categorieën aan bod: toegang, competenties, ondersteuningsnetwerken, en dienstverlening en communicatie.
+3. **Beleids- en actieplan uitwerken** — acties, timing, verantwoordelijken, doelgroep en impact vastleggen.
+
+De tool bestaat uit een handleiding, een set bouwstenen (kaartjes) in vijf categorieën, een legplan of online template, en de digitale-inclusiematrix. Je bestelt een fysiek exemplaar via de webshop van Mediawijs of print de onderdelen: handleiding, bouwstenen, legplan, digitale-inclusiematrix en twee xlsx-templates (beleidstool en matrix). De tool is een initiatief van VVSG en District09 (2022), uitgegeven onder CC BY-NC-SA, en herwerkt de zeven bouwstenen van VVSG tot een instrument op maat van lokale besturen.
+
+> **Let op:** de skills in deze repo vertalen dat naar vier werkstappen — verkenning, selectie, plan, verankering. Dat is onze bewerking voor een adviestraject, niet de officiële fasering van de tool. Gebruik je de tool samen met VVSG of een netwerk, volg dan de drie fasen hierboven.
 
 > **Bron:** Mediawijs, *Beleidstool digitale inclusie — lokale besturen* — https://www.mediawijs.be/nl/beleidstoollokalebesturen
 

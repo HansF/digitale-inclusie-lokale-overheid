@@ -1,11 +1,12 @@
 ---
 type: kennisdocument
 title: "De vier voorwaarden en de vijf bouwstenen"
-description: "De twee modellen van de kennisbank en hoe je ze gebruikt in een gesprek, een canvas of een beleidsnota."
+description: "De twee modellen van de kennisbank, hun verhouding tot de zeven bouwstenen van VVSG, en hoe je ze gebruikt in een gesprek, een canvas of een beleidsnota."
 tags: [modellen, bouwstenen, voorwaarden]
 sources:
   - resource: "https://www.mediawijs.be/nl/artikels/wat-digitale-inclusie"
   - resource: "https://www.mediawijs.be/nl/beleidstoollokalebesturen"
+  - resource: "https://www.mediawijs.be/en/article-overview/7-building-blocks-sustainable-e-policy"
 ---
 
 # 06 — De vier voorwaarden en de vijf bouwstenen
@@ -86,6 +87,26 @@ De Beleidstool digitale inclusie voor lokale besturen bevat een reeks **bouwsten
 - Breng de lokale situatie in kaart.
 
 > **Bron:** Mediawijs, *Beleidstool digitale inclusie — bouwstenen* — https://www.mediawijs.be/nl/beleidstoollokalebesturen
+
+### 2.6 De zeven bouwstenen van VVSG
+
+De Beleidstool is een herwerking van de **zeven bouwstenen voor een duurzaam e-inclusiebeleid** van VVSG. Je komt die terminologie tegen bij netwerkpartners, in inspiratiedagen en in Europese voorbeelden. Mediawijs publiceert ze als *7 building blocks for a sustainable e-policy*:
+
+| # | Bouwsteen (zoals gepubliceerd) | Waar hij bij ons zit |
+| :--- | :--- | :--- |
+| 1 | Keep a broad vision of e-inclusion | Regierol — visie en mandaat |
+| 2 | Know and measure what you (need to) do | Regierol, met indicatoren uit [kennis/11-monitoring-en-impact.md](./11-monitoring-en-impact.md) |
+| 3 | Work with partners | Regierol en ondersteuningsnetwerk |
+| 4 | Provide support networks for professionals | Ondersteuningsnetwerk — digihelpers en interne ondersteuning |
+| 5 | Provide high-quality digital access for everyone | Toegang — toestellen, verbinding, uitleendienst, digipunt |
+| 6 | Work on basic digital competences | Competenties — vorming en oefenkansen |
+| 7 | Integrate inclusivity into your digital services by default | Dienstverlening en communicatie — inclusion by design |
+
+De werkwijze bij de zeven bouwstenen is een groepssessie in drie stappen: verzamel partners, kleur per bouwsteen de stand van zaken (rood = geen actie, oranje = beperkt, groen = ruim voldoende) en maak daarna per gekozen bouwsteen een actieplan. Dat is dezelfde logica als het [materiaal/bouwstenen-canvas.md](../materiaal/bouwstenen-canvas.md), maar met zeven in plaats van vijf categorieën.
+
+**Wanneer welk model?** Werk je met de officiële tool of met een netwerk dat die taal spreekt, gebruik dan de vijf categorieën van de Beleidstool. Werk je met VVSG, een Europese partner of een bestaand rood-oranje-groen-traject, gebruik dan de zeven bouwstenen. De inhoud is dezelfde; alleen de indeling verschilt.
+
+> **Bron:** Mediawijs, *7 building blocks for a sustainable e-policy* — https://www.mediawijs.be/en/article-overview/7-building-blocks-sustainable-e-policy
 
 ## 3. Hoe de twee modellen samenhangen
 
